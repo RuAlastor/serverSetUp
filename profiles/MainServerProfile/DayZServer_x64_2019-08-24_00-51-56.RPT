@@ -1,0 +1,1775 @@
+
+
+=====================================================================
+== G:\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=myServerDZ.cfg  -profiles=profiles/MainServerProfile -dologs -adminlog -scriptDebug=true -freezecheck "-mod=mods/@CF;mods/@CommunityOnlineTools" 
+=====================================================================
+Exe timestamp: 2019/07/27 09:15:36
+Current time:  2019/08/24 00:51:56
+
+Version 1.04.152166
+ 0:51:56.318 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 1/5
+ 0:51:57.320 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 2/5
+ 0:51:58.321 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 3/5
+ 0:51:59.322 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 4/5
+ 0:52:00.322 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 5/5
+ 0:52:01.439 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:52:01.439 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:52:01.440 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:52:01.442 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:52:01.684 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:52:01.684 Localization not present: STR_TIME_FORMAT
+ 0:52:01.684 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:52:01.684 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:52:01.684 Localization not present: STR_MP_VALIDERROR
+ 0:52:01.684 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:52:01.684 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:52:01.684 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:52:01.684 Localization not present: STR_LOAD_INIT
+ 0:52:01.684 Localization not present: STR_LOAD_WORLD
+ 0:52:01.684 Localization not present: STR_LOAD_GAME
+ 0:52:01.684 Localization not present: STR_SAVE_GAME
+ 0:52:01.684 Localization not present: STR_MP_CONNECT
+ 0:52:01.684 Localization not present: STR_MP_DISCONNECT
+ 0:52:01.684 Localization not present: STR_MP_CONNECTING
+ 0:52:01.684 Localization not present: STR_MP_TIMEOUT
+ 0:52:01.684 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:52:01.684 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:52:01.685 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:52:01.685 Localization not present: STR_TIME_FORMAT
+ 0:52:01.685 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:52:01.685 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:52:01.685 Localization not present: STR_MP_VALIDERROR
+ 0:52:01.685 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:52:01.685 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:52:01.685 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:52:01.685 Localization not present: STR_LOAD_INIT
+ 0:52:01.685 Localization not present: STR_LOAD_WORLD
+ 0:52:01.685 Localization not present: STR_LOAD_GAME
+ 0:52:01.685 Localization not present: STR_SAVE_GAME
+ 0:52:01.685 Localization not present: STR_MP_CONNECT
+ 0:52:01.685 Localization not present: STR_MP_DISCONNECT
+ 0:52:01.685 Localization not present: STR_MP_CONNECTING
+ 0:52:01.685 Localization not present: STR_MP_TIMEOUT
+ 0:52:01.685 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:52:01.685 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:52:01.727 Initializing stats manager.
+ 0:52:01.727 Stats config disabled.
+ 0:52:03.852 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+ 0:52:03.852 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+ 0:52:03.859 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+ 0:52:03.859 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+ 0:52:03.876 Updating base class HorticultureBaseProxies->ProxyAttachment, by DZ\structures\residential\config.bin/CfgNonAIVehicles/ProxyTomato_Seeds/
+ 0:52:04.206 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+ 0:52:05.347 ENGINE    (W): No module info used, trying to identify -> 0xD6D50000
+
+ 0:52:05.348 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+ 0:52:05.508 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:52:05.512 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:52:05.512 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+ 0:52:05.513 [Inputs] Loading inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:52:05.513 !!! [Inputs] Cannot read inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml", parser error
+ 0:52:05.513 [Inputs] Loading inputs cfg "bin/core.xml"
+ 0:52:05.514 !!! [Inputs] Cannot load input preset "user", file does not exist
+ 0:52:05.515 [Inputs] Exporting inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CreateLobby'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinLobby'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinTeam'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetUserUID'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetService'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+
+ 0:52:05.792 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+
+ 0:52:05.793 SCRIPT    (W): @"scripts/3_Game/systems\inventory\cargo.c,6": Missing script declaration for method 'CargoBase.IsProxyCargo'
+
+ 0:52:05.868 ANIMATION (E): Can't load mods/@CommunityOnlineTools/Anims/cfg/skeletons.anim.xml
+
+ 0:52:05.868 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:52:05.868 ANIMATION (E): Can't load mods/@CF/Anims/cfg/skeletons.anim.xml
+
+ 0:52:05.868 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:52:05.973 Warning Message: 'soundSetNear/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetFar/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetNear/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetFar/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetNear/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetFar/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetNear/' is not a value
+ 0:52:05.973 Warning Message: 'soundSetFar/' is not a value
+ 0:52:07.183 SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\staticfunctions.c,18": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:52:07.235 RENDER    (E): Cannot find PP effect CloudsEffect, is the name correct?
+
+ 0:52:07.248 MATERIAL  (E): Can't load 'DropRefractionTex' 'graphics/textures/postprocess/drop_refraction.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.267 MATERIAL  (E): Can't load 'DistantTex' 'graphics/textures/postprocess/raindistantmask.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.281 MATERIAL  (E): Can't load 'RotationNoiseMap' 'graphics/textures/postprocess/noise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.290 MATERIAL  (E): Can't load 'RipplesMap' 'graphics/textures/postprocess/ripple.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.332 MATERIAL  (E): Can't load 'MovableMap' 'graphics/textures/postprocess/rainripplesmovable.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.334 MATERIAL  (E): Can't load 'MovableNoiseMap' 'graphics/textures/postprocess/rainripplesmovablenoise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:52:07.347 MATERIAL  (E): Can't load 'ColorTable' 'graphics/textures/postprocess/color_test.edds', in material @"Graphics/Materials/postprocess/colorgrading.emat"
+
+ 0:52:07.382 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+ 0:52:07.382 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+ 0:52:07.382 String "STR_DN_UNKNOWN" not found
+ 0:52:07.382 String "STR_DN_UNKNOWN" not found
+ 0:52:07.382 String "STR_DN_CAR" not found
+ 0:52:07.382 String "STR_DN_UNKNOWN" not found
+ 0:52:07.382 String "STR_DN_HELICOPTER" not found
+ 0:52:07.382 String "STR_DN_HELICOPTER" not found
+ 0:52:07.382 String "STR_DN_MAN" not found
+ 0:52:07.382 String "STR_DN_ANIMAL" not found
+ 0:52:07.382 String "STR_DN_UNKNOWN" not found
+ 0:52:07.383 String "STR_DN_BUNKER" not found
+ 0:52:07.383 String "STR_DN_UNKNOWN" not found
+ 0:52:07.383 String "STR_DN_UNKNOWN" not found
+ 0:52:07.383 String "STR_DN_UNKNOWN" not found
+ 0:52:07.383 String "STR_DN_UNKNOWN" not found
+ 0:52:07.383 String "STR_DN_MAN" not found
+ 0:52:07.383 String "STR_DN_MAN" not found
+ 0:52:07.383 String "STR_DN_MAN" not found
+ 0:52:07.386 String "STR_DN_CAR" not found
+ 0:52:07.387 String "STR_DN_ANIMAL" not found
+ 0:52:07.387 String "STR_DN_ANIMAL" not found
+ 0:52:07.397 String "STR_DN_MAN" not found
+ 0:52:07.402 String "STR_DN_CAR" not found
+ 0:52:07.626 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+ 0:52:07.626 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+ 0:52:07.626 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.burst'.
+ 0:52:07.626 Warning Message: '/' is not a value
+ 0:52:07.626 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.reloadTime'.
+ 0:52:07.626 Warning Message: '/' is not a value
+ 0:52:07.626 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.burst'.
+ 0:52:07.626 Warning Message: '/' is not a value
+ 0:52:07.626 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.reloadTime'.
+ 0:52:07.626 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.reloadTime'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.627 Warning Message: No entry 'bin\config.bin/CfgWeapons/Launcher_Base.burst'.
+ 0:52:07.627 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.burst'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.reloadTime'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.burst'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.reloadTime'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.burst'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.684 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.reloadTime'.
+ 0:52:07.684 Warning Message: '/' is not a value
+ 0:52:07.714 Warning Message: No entry 'bin\config.bin.RscPendingInvitation'.
+ 0:52:07.714 Warning Message: No entry '.x'.
+ 0:52:07.714 Warning Message: '/' is not a value
+ 0:52:07.714 Warning Message: No entry '.y'.
+ 0:52:07.714 Warning Message: '/' is not a value
+ 0:52:07.714 Warning Message: No entry '.w'.
+ 0:52:07.714 Warning Message: '/' is not a value
+ 0:52:07.714 Warning Message: No entry '.h'.
+ 0:52:07.714 Warning Message: '/' is not a value
+ 0:52:07.784 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.04.152166)
+ 0:52:07.784 Server: SetClientState dpid=2 id=0 name=__SERVER__ CREATED -> CONNECTED
+ 0:52:07.833 Server: SetClientState dpid=2 id=0 name=__SERVER__ MISSION SELECTED -> PLAYER ASSIGNED
+ 0:52:07.833 Server: SetClientState dpid=2 id=0 name=__SERVER__ PLAYER ASSIGNED -> MISSION RECEIVED
+ 0:52:07.844 Terrain normal texture loaded (dz\worlds\chernarusplus\data\global_nohq.paa)...
+ 0:52:09.83 PerfWarning: Way too much components (582) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 0:52:09.131 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 0:52:09.278 PerfWarning: Way too much components (948) in dz\structures\specific\prison\prison_wall_large.p3d:geometryFire
+ 0:52:09.393 Warning Message: Animation source slot_01 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_02 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_03 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_04 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_05 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_06 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_07 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_08 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.393 Warning Message: Animation source slot_09 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:52:09.431 PerfWarning: Way too much components (742) in dz\structures\residential\police\village_policestation.p3d:geometryFire
+ 0:52:09.473 PerfWarning: Way too much components (786) in dz\structures\residential\houses\house_1w08.p3d:geometryFire
+ 0:52:09.511 PerfWarning: Way too much components (665) in dz\structures\residential\houses\house_2w01.p3d:geometryFire
+ 0:52:09.546 PerfWarning: Way too much components (1028) in dz\structures\residential\houses\house_2w03.p3d:geometryFire
+ 0:52:09.624 PerfWarning: Way too much components (792) in dz\structures\residential\houses\house_1w11.p3d:geometryFire
+ 0:52:09.649 PerfWarning: Way too much components (865) in dz\structures\residential\houses\house_1b01_pub.p3d:geometryFire
+ 0:52:09.671 PerfWarning: Way too much components (534) in dz\structures\specific\churches\church2_2.p3d:geometryFire
+ 0:52:09.688 Warning Message: unable to load doorCarSmallOpenABit_1 from CfgSounds
+ 0:52:09.688 Warning Message: unable to load doorCarSmallOpenABit_2 from CfgSounds
+ 0:52:09.688 Warning Message: unable to load doorCarSmallOpenABit_3 from CfgSounds
+ 0:52:09.688 Warning Message: unable to load doorCarSmallOpenABit_4 from CfgSounds
+ 0:52:09.688 Warning Message: unable to load doorCarSmallRattle from CfgActionSounds
+ 0:52:09.730 PerfWarning: Way too much components (641) in dz\structures\residential\tenements\tenement_small.p3d:geometryFire
+ 0:52:09.814 PerfWarning: Way too much components (642) in dz\structures\residential\tenements\tenement_big.p3d:geometryFire
+ 0:52:09.938 PerfWarning: Way too much components (821) in dz\structures\wrecks\vehicles\wreck_hmmwv.p3d:geometryFire
+ 0:52:09.944 PerfWarning: Way too much components (704) in dz\structures\wrecks\vehicles\wreck_ural.p3d:geometryFire
+ 0:52:09.993 PerfWarning: Way too much components (779) in dz\structures\residential\schools\city_school.p3d:geometryFire
+ 0:52:10.26 PerfWarning: Way too much components (1187) in dz\structures\residential\schools\proxy\school_exterior_proxy.p3d:geometryFire
+ 0:52:10.199 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f8.p3d:geometryFire
+ 0:52:10.209 PerfWarning: Way too much components (501) in dz\structures\wrecks\vehicles\wreck_volha_grey.p3d:geometryFire
+ 0:52:10.229 PerfWarning: Way too much components (820) in dz\structures\residential\houses\house_2w02.p3d:geometryFire
+ 0:52:10.250 PerfWarning: Way too much components (600) in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryFire
+ 0:52:10.254 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f2.p3d:geometryFire
+ 0:52:10.285 PerfWarning: Way too much components (1025) in dz\structures\residential\houses\house_2w04.p3d:geometryFire
+ 0:52:10.333 PerfWarning: Way too much components (510) in dz\structures\residential\houseblocks\houseblock_3f1.p3d:geometryFire
+ 0:52:10.368 PerfWarning: Way too much components (682) in dz\structures\residential\houseblocks\houseblock_2f3.p3d:geometryFire
+ 0:52:10.389 PerfWarning: Way too much components (552) in dz\structures\residential\houseblocks\houseblock_2f6.p3d:geometryFire
+ 0:52:10.495 PerfWarning: Way too much components (532) in dz\structures\residential\houses\house_2b02.p3d:geometryFire
+ 0:52:10.501 PerfWarning: Way too much components (913) in dz\structures\residential\houses\house_2b04.p3d:geometryFire
+ 0:52:10.532 PerfWarning: Way too much components (804) in dz\structures\residential\offices\office_municipal1.p3d:geometryFire
+ 0:52:10.583 PerfWarning: Way too much components (710) in dz\structures\residential\houses\house_2b03.p3d:geometryFire
+ 0:52:10.594 PerfWarning: Way too much components (804) in dz\structures\residential\police\city_policestation.p3d:geometryFire
+ 0:52:10.673 PerfWarning: Way too much components (677) in dz\structures\residential\medical\city_hospital.p3d:geometryFire
+ 0:52:10.701 PerfWarning: Way too much components (566) in dz\structures\residential\stores\city_store_withstairs.p3d:geometryFire
+ 0:52:10.729 PerfWarning: Way too much components (1200) in dz\structures\residential\offices\office2.p3d:geometryFire
+ 0:52:10.751 PerfWarning: Way too much components (506) in dz\structures\residential\offices\proxy\a_office02_metalbars.p3d:geometryFire
+ 0:52:10.919 PerfWarning: Way too much components (850) in dz\structures\residential\houses\house_1w12.p3d:geometryFire
+ 0:52:10.945 PerfWarning: Way too much components (558) in dz\structures\industrial\misc\misc_scaffolding.p3d:geometryFire
+ 0:52:11.151 PerfWarning: Way too much components (1027) in dz\structures\residential\offices\office1.p3d:geometryFire
+ 0:52:11.187 SW keep height animation used for dz\structures\residential\misc\misc_football_line.p3d
+ 0:52:11.225 PerfWarning: Way too much components (982) in dz\structures\industrial\houses\factory_small.p3d:geometryFire
+ 0:52:11.257 PerfWarning: Way too much components (628) in dz\structures\ruins\rubble_dirtpile_medium2.p3d:geometryFire
+ 0:52:11.300 Warning Message: No entry 'bin\config.bin/CfgVehicles/Land_Train_Wagon_Box/Doors/Door1.soundOpenABit'.
+ 0:52:11.300 Warning Message: '/' is not a value
+ 0:52:11.300 Warning Message: unable to load doorWoodRattle from CfgActionSounds
+ 0:52:11.300 Warning Message: No entry 'bin\config.bin/CfgVehicles/Land_Train_Wagon_Box/Doors/Door2.soundOpenABit'.
+ 0:52:11.300 Warning Message: '/' is not a value
+ 0:52:11.381 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometry
+ 0:52:11.383 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometryFire
+ 0:52:11.402 PerfWarning: Way too much components (626) in dz\structures\military\improvised\proxy\tent_big2.p3d:geometryFire
+ 0:52:11.543 PerfWarning: Way too much components (546) in dz\structures\military\houses\mil_guardhouse2.p3d:geometryFire
+ 0:52:11.574 PerfWarning: Way too much components (709) in dz\structures\residential\firedep\city_firestation.p3d:geometryFire
+ 0:52:11.632 PerfWarning: Way too much components (603) in dz\structures\rail\houses\rail_warehouse_small.p3d:geometryFire
+ 0:52:11.665 PerfWarning: Way too much components (859) in dz\structures\residential\medical\village_healthcare.p3d:geometryFire
+ 0:52:12.450 PerfWarning: Way too much components (715) in dz\structures\industrial\houses\factory_lathes.p3d:geometryFire
+ 0:52:12.461 PerfWarning: Way too much components (633) in dz\structures\industrial\houses\proxy\housev2_03_int.p3d:geometryFire
+ 0:52:12.514 PerfWarning: Way too much components (660) in dz\structures\military\airfield\mil_airfield_hq.p3d:geometryFire
+ 0:52:12.599 PerfWarning: Way too much components (502) in dz\structures\industrial\construction\construction_house2.p3d:geometryFire
+ 0:52:12.724 PerfWarning: Way too much components (660) in dz\structures\ruins\rubble_dirtpile_small.p3d:geometryFire
+ 0:52:12.995 PerfWarning: Way too much components (561) in dz\structures\industrial\farms\barn_wood1.p3d:geometryFire
+ 0:52:13.245 PerfWarning: Way too much components (912) in dz\structures\military\tisy\tisy_hq.p3d:geometryFire
+ 0:52:13.908 Warning Message: unable to load doorMetalLargeOpen from CfgActionSounds
+ 0:52:13.908 Warning Message: unable to load doorMetalLargeOpenABit from CfgActionSounds
+ 0:52:13.908 Warning Message: unable to load doorMetalLargeClose from CfgActionSounds
+ 0:52:13.908 Warning Message: unable to load doorMetalLargeRattle from CfgActionSounds
+ 0:52:14.06 PerfWarning: Way too much components (1212) in dz\structures\residential\offices\office_municipal2.p3d:geometryFire
+ 0:52:14.14 PerfWarning: Way too much components (1024) in dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d:geometryFire
+ 0:52:14.17 PerfWarning: Way too much components (707) in dz\structures\residential\offices\proxy\municipaloffice2_int.p3d:geometryFire
+ 0:52:14.37 Warning Message: unable to load doorMetalFrontOpen from CfgActionSounds
+ 0:52:14.37 Warning Message: unable to load doorMetalFrontOpenABit from CfgActionSounds
+ 0:52:14.37 Warning Message: unable to load doorMetalFrontClose from CfgActionSounds
+ 0:52:14.37 Warning Message: unable to load doorMetalFrontRattle from CfgActionSounds
+ 0:52:14.155 PerfWarning: Way too much components (505) in dz\structures\military\improvised\hbarrier_6m.p3d:geometryView
+ 0:52:23.155 SCRIPT    (W): @"scripts/5_Mission/gui\inventorynew\inherited\zombiecontainer.c,651": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+
+ 0:52:23.182 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,212": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:52:23.183 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,217": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:52:23.197 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\gui\mapeditor\mapeditormenu.c,111": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+
+ 0:52:23.255 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\teleport\teleportmodule.c,188": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:52:23.271 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\objectmodule.c,196": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:52:23.482 [CE][Hive] :: Initializing OFFLINE
+ 0:52:23.482 [CE][Hive] :: Loading core data ... 
+ 0:52:23.482 [CE][CoreData] :: 7 root classes, 5 defaults, 0 updaters...
+ 0:52:23.593 [CE][Hive] :: Loading map data ... 
+ 0:52:23.675 [CE][LoadPrototype] :: loaded 227 prototypes
+ 0:52:23.675   488 containers, 7158 points
+ 0:52:23.675   0 dispatches, 0 proxies
+ 0:52:23.675 !!! [CE][LoadPrototype] 5 groups have no points...
+ 0:52:23.675 [CE][LoadPrototype] :: last group name: Land_Wreck_Volha_Police...
+ 0:52:23.694 [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:52:23.694   0 containers, 0 points
+ 0:52:23.694   0 dispatches, 0 proxies
+ 0:52:23.694 [CE][LoadPrototype] :: last group name: Rail9...
+ 0:52:23.993 [CE][LoadMap] "Group" :: loaded 11402 groups, largest group range: 34.2
+ 0:52:23.997 !!! File "DZ\worlds\chernarusplus\ce\mapgroupdirt.xml" does not exist...
+ 0:52:23.997 !!! [CE][LoadMap] "Dirt" :: Failed to read group instances (DZ\worlds\chernarusplus\ce\mapgroupdirt.xml)
+ 0:52:24.584 [CE][Links] found 1850 total links between groups, of 11402
+ 0:52:24.584 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:52:24.895 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 0:52:25.234 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 0:52:25.559 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 0:52:25.896 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 0:52:26.07 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17188 instances
+ 0:52:26.319 PerfWarning: Way too much components (1020) in dz\structures\industrial\cementworks\cementworks_expeditiona.p3d:geometryFire
+ 0:52:26.341 PerfWarning: Way too much components (954) in dz\structures\industrial\cementworks\cementworks_millb.p3d:geometryFire
+ 0:52:26.381 PerfWarning: Way too much components (1459) in dz\structures\industrial\construction\construction_building.p3d:geometryFire
+ 0:52:26.386 PerfWarning: Way too much components (601) in dz\structures\industrial\construction\construction_crane.p3d:geometryFire
+ 0:52:26.392 PerfWarning: Way too much components (502) in dz\structures\industrial\construction\construction_house2.p3d:geometryFire
+ 0:52:26.404 PerfWarning: Way too much components (561) in dz\structures\industrial\farms\barn_wood1.p3d:geometryFire
+ 0:52:26.414 PerfWarning: Way too much components (1041) in dz\structures\industrial\farms\barn_metal_big.p3d:geometryFire
+ 0:52:26.428 PerfWarning: Way too much components (1041) in dz\structures\industrial\farms\barn_metal_big_grey.p3d:geometryFire
+ 0:52:26.460 PerfWarning: Way too much components (658) in dz\structures\industrial\harbour\boathouse.p3d:geometryFire
+ 0:52:26.477 PerfWarning: Way too much components (715) in dz\structures\industrial\houses\factory_lathes.p3d:geometryFire
+ 0:52:26.486 PerfWarning: Way too much components (982) in dz\structures\industrial\houses\factory_small.p3d:geometryFire
+ 0:52:26.503 PerfWarning: Way too much components (700) in dz\structures\industrial\mines\mine_building.p3d:geometryFire
+ 0:52:26.507 PerfWarning: Way too much components (558) in dz\structures\industrial\misc\misc_scaffolding.p3d:geometryFire
+ 0:52:26.527 PerfWarning: Way too much components (582) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 0:52:26.547 PerfWarning: Way too much components (528) in dz\structures\industrial\sawmills\sawmill_building.p3d:geometryFire
+ 0:52:26.600 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometry
+ 0:52:26.603 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometryFire
+ 0:52:26.613 PerfWarning: Way too much components (660) in dz\structures\military\airfield\mil_airfield_hq.p3d:geometryFire
+ 0:52:26.632 PerfWarning: Way too much components (732) in dz\structures\military\airfield\mil_atc_small.p3d:geometryFire
+ 0:52:26.659 PerfWarning: Way too much components (631) in dz\structures\military\airfield\mil_atc_big.p3d:geometryFire
+ 0:52:26.662 PerfWarning: Way too much components (634) in dz\structures\military\airfield\mil_atc_big.p3d:geometryView
+ 0:52:26.683 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 0:52:26.698 PerfWarning: Way too much components (546) in dz\structures\military\houses\mil_guardhouse2.p3d:geometryFire
+ 0:52:26.712 PerfWarning: Way too much components (592) in dz\structures\military\houses\mil_guardtower.p3d:geometryFire
+ 0:52:26.737 PerfWarning: Way too much components (652) in dz\structures\military\improvised\mil_tent_big4.p3d:geometryFire
+ 0:52:26.763 PerfWarning: Way too much components (912) in dz\structures\military\tisy\tisy_hq.p3d:geometryFire
+ 0:52:26.786 PerfWarning: Way too much components (866) in dz\structures\military\tisy\tisy_radarb_base.p3d:geometryView
+ 0:52:26.800 PerfWarning: Way too much components (601) in dz\structures\military\tisy\tisy_radarb_antenna.p3d:geometryFire
+ 0:52:26.811 PerfWarning: Way too much components (634) in dz\structures\military\airfield\airfield_hangar_green.p3d:geometryFire
+ 0:52:26.822 PerfWarning: Way too much components (627) in dz\structures\military\airfield\airfield_servicehangar_r.p3d:geometryFire
+ 0:52:26.837 PerfWarning: Way too much components (566) in dz\structures\military\airfield\airfield_servicehangar_l.p3d:geometryFire
+ 0:52:26.856 PerfWarning: Way too much components (1705) in dz\structures\military\airfield\mil_aircraftshelter.p3d:geometryFire
+ 0:52:26.870 PerfWarning: Way too much components (1117) in dz\structures\military\airfield\airfield_radar_tall.p3d:geometryFire
+ 0:52:26.893 PerfWarning: Way too much components (1046) in dz\structures\military\airfield\mil_reinforcedtank2.p3d:geometryFire
+ 0:52:26.914 PerfWarning: Way too much components (603) in dz\structures\rail\houses\rail_warehouse_small.p3d:geometryFire
+ 0:52:26.939 PerfWarning: Way too much components (709) in dz\structures\residential\firedep\city_firestation.p3d:geometryFire
+ 0:52:26.969 PerfWarning: Way too much components (600) in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryFire
+ 0:52:26.974 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f2.p3d:geometryFire
+ 0:52:26.983 PerfWarning: Way too much components (682) in dz\structures\residential\houseblocks\houseblock_2f3.p3d:geometryFire
+ 0:52:27.00 PerfWarning: Way too much components (552) in dz\structures\residential\houseblocks\houseblock_2f6.p3d:geometryFire
+ 0:52:27.10 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f8.p3d:geometryFire
+ 0:52:27.32 PerfWarning: Way too much components (510) in dz\structures\residential\houseblocks\houseblock_3f1.p3d:geometryFire
+ 0:52:27.56 PerfWarning: Way too much components (865) in dz\structures\residential\houses\house_1b01_pub.p3d:geometryFire
+ 0:52:27.90 PerfWarning: Way too much components (786) in dz\structures\residential\houses\house_1w08.p3d:geometryFire
+ 0:52:27.108 PerfWarning: Way too much components (792) in dz\structures\residential\houses\house_1w11.p3d:geometryFire
+ 0:52:27.114 PerfWarning: Way too much components (850) in dz\structures\residential\houses\house_1w12.p3d:geometryFire
+ 0:52:27.123 PerfWarning: Way too much components (532) in dz\structures\residential\houses\house_2b02.p3d:geometryFire
+ 0:52:27.130 PerfWarning: Way too much components (710) in dz\structures\residential\houses\house_2b03.p3d:geometryFire
+ 0:52:27.139 PerfWarning: Way too much components (913) in dz\structures\residential\houses\house_2b04.p3d:geometryFire
+ 0:52:27.146 PerfWarning: Way too much components (665) in dz\structures\residential\houses\house_2w01.p3d:geometryFire
+ 0:52:27.154 PerfWarning: Way too much components (820) in dz\structures\residential\houses\house_2w02.p3d:geometryFire
+ 0:52:27.167 PerfWarning: Way too much components (1028) in dz\structures\residential\houses\house_2w03.p3d:geometryFire
+ 0:52:27.178 PerfWarning: Way too much components (1025) in dz\structures\residential\houses\house_2w04.p3d:geometryFire
+ 0:52:27.199 PerfWarning: Way too much components (922) in dz\structures\residential\houses\village_pub.p3d:geometryFire
+ 0:52:27.206 PerfWarning: Way too much components (677) in dz\structures\residential\medical\city_hospital.p3d:geometryFire
+ 0:52:27.214 PerfWarning: Way too much components (859) in dz\structures\residential\medical\village_healthcare.p3d:geometryFire
+ 0:52:27.232 PerfWarning: Way too much components (804) in dz\structures\residential\offices\office_municipal1.p3d:geometryFire
+ 0:52:27.246 PerfWarning: Way too much components (1212) in dz\structures\residential\offices\office_municipal2.p3d:geometryFire
+ 0:52:27.257 PerfWarning: Way too much components (1027) in dz\structures\residential\offices\office1.p3d:geometryFire
+ 0:52:27.272 PerfWarning: Way too much components (1200) in dz\structures\residential\offices\office2.p3d:geometryFire
+ 0:52:27.290 PerfWarning: Way too much components (742) in dz\structures\residential\police\village_policestation.p3d:geometryFire
+ 0:52:27.312 PerfWarning: Way too much components (804) in dz\structures\residential\police\city_policestation.p3d:geometryFire
+ 0:52:27.340 PerfWarning: Way too much components (779) in dz\structures\residential\schools\city_school.p3d:geometryFire
+ 0:52:27.360 PerfWarning: Way too much components (566) in dz\structures\residential\stores\city_store_withstairs.p3d:geometryFire
+ 0:52:27.371 PerfWarning: Way too much components (642) in dz\structures\residential\tenements\tenement_big.p3d:geometryFire
+ 0:52:27.383 PerfWarning: Way too much components (641) in dz\structures\residential\tenements\tenement_small.p3d:geometryFire
+ 0:52:27.462 PerfWarning: Way too much components (544) in dz\structures\specific\airfields\airfield_small_control.p3d:geometryFire
+ 0:52:27.571 PerfWarning: Way too much components (515) in dz\structures\specific\hotel\hotel.p3d:geometryFire
+ 0:52:27.583 PerfWarning: Way too much components (534) in dz\structures\specific\churches\church2_2.p3d:geometryFire
+ 0:52:27.633 PerfWarning: Way too much components (797) in dz\structures\specific\prison\prison_main.p3d:geometryFire
+ 0:52:27.658 PerfWarning: Way too much components (948) in dz\structures\specific\prison\prison_wall_large.p3d:geometryFire
+ 0:52:27.686 PerfWarning: Way too much components (744) in dz\structures\specific\towers\tower_tc2_base.p3d:geometryFire
+ 0:52:27.734 PerfWarning: Way too much components (832) in dz\structures\wrecks\ships\ship_big_fronta.p3d:geometryFire
+ 0:52:27.747 PerfWarning: Way too much components (1170) in dz\structures\wrecks\ships\ship_big_frontb.p3d:geometryFire
+ 0:52:27.765 PerfWarning: Way too much components (761) in dz\structures\wrecks\ships\ship_big_backa.p3d:geometryFire
+ 0:52:27.778 PerfWarning: Way too much components (1078) in dz\structures\wrecks\ships\ship_big_backb.p3d:geometryFire
+ 0:52:27.793 PerfWarning: Way too much components (625) in dz\structures\wrecks\ships\ship_big_castle.p3d:geometry
+ 0:52:27.796 PerfWarning: Way too much components (905) in dz\structures\wrecks\ships\ship_big_castle.p3d:geometryFire
+ 0:52:27.797 PerfWarning: Way too much components (504) in dz\structures\wrecks\ships\ship_big_castle.p3d:geometryView
+ 0:52:27.845 PerfWarning: Way too much components (501) in dz\structures\wrecks\vehicles\wreck_volha_grey.p3d:geometryFire
+ 0:52:27.862 PerfWarning: Way too much components (570) in dz\structures\wrecks\aircraft\wreck_c130j.p3d:geometryFire
+ 0:52:27.937 Convex "component42" selection faces are less then 4 in dz\vehicles\wheeled\sedan_02\sedan_02.p3d:geometryView
+ 0:52:27.978 Warning Message: Cannot open object dz\vehicles\wheeled\truck_02\proxy\truck_02_ruined.p3d
+ 0:52:27.978 !!! Shape Truck_02_Wheel_Ruined does not have defined min&max for loot's BBox.
+ 0:52:28.892 Convex "component01" selection faces are less then 4 in dz\gear\cooking\fireplace.p3d:geometry
+ 0:52:28.892 Convex "component02" selection faces are less then 4 in dz\gear\cooking\fireplace.p3d:geometry
+ 0:52:28.892 Convex "component03" selection faces are less then 4 in dz\gear\cooking\fireplace.p3d:geometry
+ 0:52:29.107 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 0:52:29.110 [CE][TypeSetup] :: 397 classes setuped...
+ 0:52:29.175 [CE][RegisterBind] :: 0 classes binded...
+ 0:52:29.175 [CE][RegisterConfig] :: 2638 config classes registered, 1 sub-counters...
+ 0:52:29.181 [CE][Storage] ver:21 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\types.bin"
+ 0:52:29.197 [CE][Storage] ver:21 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\types.001"
+ 0:52:29.205 [CE][Storage] ver:21 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\types.002"
+ 0:52:29.205 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\types.bin".
+ 0:52:29.249 [CE][offlineDB] :: Loaded 34 dynamic events 206 total types 0 total positions.
+ 0:52:29.293 [CE][Storage] ver:21 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\events.bin"
+ 0:52:29.298 [CE][Storage] ver:21 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\events.001"
+ 0:52:29.305 [CE][Storage] ver:21 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\events.002"
+ 0:52:29.305 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\events.bin".
+ 0:52:29.305 [CE][DynamicEvent] Load  Events:[34] Primary spawners: 34 Secondary spawners: 1
+ 0:52:29.306 
+ 0:52:29.306 [CE][DE] Scaling Spawner: 4
+ 0:52:29.306 100 % == 1000 pcs
+ 0:52:29.306 
+ 0:52:29.306 [0] InfectedArmy :: dmax: 309.0, 8.5 % == 84 pcs
+ 0:52:29.306 ZmbM_PatrolNormal_Autumn :: 30 % min: 25, max: 25
+ 0:52:29.306 ZmbM_PatrolNormal_Flat :: 10 % min: 9, max: 9
+ 0:52:29.306 ZmbM_PatrolNormal_PautRev :: 20 % min: 16, max: 16
+ 0:52:29.306 ZmbM_PatrolNormal_Summer :: 10 % min: 9, max: 9
+ 0:52:29.306 ZmbM_SoldierNormal :: 20 % min: 17, max: 17
+ 0:52:29.306 ZmbM_usSoldier_normal_Desert :: 5 % min: 4, max: 4
+ 0:52:29.306 ZmbM_usSoldier_normal_Woodland :: 5 % min: 4, max: 4
+ 0:52:29.306   pcs: 84
+ 0:52:29.306 
+ 0:52:29.306 [1] InfectedCity :: dmax: 381.0, 10.4 % == 104 pcs
+ 0:52:29.306 ZmbF_BlueCollarFat_White :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_CitizenANormal_Beige :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_CitizenANormal_Blue :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_CitizenANormal_Brown :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_CitizenBSkinny :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_Clerk_Normal_Blue :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_Clerk_Normal_Green :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_Clerk_Normal_Red :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_Clerk_Normal_White :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_JournalistNormal_Blue :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_JournalistNormal_Green :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_JournalistNormal_Red :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_JournalistNormal_White :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_ShortSkirt_beige :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_black :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_brown :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_checks :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_green :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_ShortSkirt_grey :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_red :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_ShortSkirt_stripes :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_ShortSkirt_white :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_ShortSkirt_yellow :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SkaterYoung_Brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SkaterYoung_Striped :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SkaterYoung_Violet :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SurvivorNormal_Blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SurvivorNormal_Orange :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SurvivorNormal_Red :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbF_SurvivorNormal_White :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenASkinny_Blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenASkinny_Brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenASkinny_Grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenASkinny_Red :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenBFat_Blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenBFat_Green :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CitizenBFat_Red :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_ClerkFat_Brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_ClerkFat_Grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_ClerkFat_Khaki :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_ClerkFat_White :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CommercialPilotOld_Blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CommercialPilotOld_Brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CommercialPilotOld_Grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_CommercialPilotOld_Olive :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_beige :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_black :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_bluechecks :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_greenchecks :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_khaki :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_magenta :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_stripes :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_JournalistSkinny :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_MotobikerFat_Beige :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_MotobikerFat_Black :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_SkaterYoung_Blue :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_SkaterYoung_Brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_SkaterYoung_Green :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_SkaterYoung_Grey :: 5 % min: 0, max: 0
+ 0:52:29.306   pcs: 104
+ 0:52:29.306 
+ 0:52:29.306 [2] InfectedFirefighter :: dmax: 28.0, 0.8 % == 7 pcs
+ 0:52:29.306 ZmbM_FirefighterNormal :: 100 % min: 7, max: 7
+ 0:52:29.306   pcs: 7
+ 0:52:29.306 
+ 0:52:29.306 [3] InfectedIndustrial :: dmax: 387.0, 10.6 % == 105 pcs
+ 0:52:29.306 ZmbF_BlueCollarFat_Blue :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_BlueCollarFat_Green :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_BlueCollarFat_Red :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_BlueCollarFat_White :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_MechanicNormal_Beige :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_MechanicNormal_Green :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_MechanicNormal_Grey :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbF_MechanicNormal_Orange :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_ConstrWorkerNormal_Beige :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_ConstrWorkerNormal_Black :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_ConstrWorkerNormal_Green :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_ConstrWorkerNormal_Grey :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_HandymanNormal_Beige :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_HandymanNormal_Blue :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_HandymanNormal_Green :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_HandymanNormal_Grey :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_HandymanNormal_White :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_HeavyIndustryWorker :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_MechanicSkinny_Blue :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_MechanicSkinny_Green :: 5 % min: 5, max: 5
+ 0:52:29.306 ZmbM_MechanicSkinny_Grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_MechanicSkinny_Red :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_OffshoreWorker_Green :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_OffshoreWorker_Orange :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_OffshoreWorker_Red :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_OffshoreWorker_Yellow :: 5 % min: 0, max: 0
+ 0:52:29.306   pcs: 105
+ 0:52:29.306 
+ 0:52:29.306 [4] InfectedMedic :: dmax: 92.0, 2.5 % == 25 pcs
+ 0:52:29.306 ZmbF_DoctorSkinny :: 20 % min: 5, max: 5
+ 0:52:29.306 ZmbF_NurseFat :: 5 % min: 1, max: 1
+ 0:52:29.306 ZmbF_ParamedicNormal_Blue :: 15 % min: 4, max: 4
+ 0:52:29.306 ZmbF_ParamedicNormal_Green :: 10 % min: 3, max: 3
+ 0:52:29.306 ZmbF_ParamedicNormal_Red :: 10 % min: 2, max: 2
+ 0:52:29.306 ZmbF_PatientOld :: 5 % min: 1, max: 1
+ 0:52:29.306 ZmbM_DoctorFat :: 5 % min: 2, max: 2
+ 0:52:29.306 ZmbM_ParamedicNormal_Black :: 15 % min: 3, max: 3
+ 0:52:29.306 ZmbM_ParamedicNormal_Blue :: 10 % min: 3, max: 3
+ 0:52:29.306 ZmbM_ParamedicNormal_Green :: 10 % min: 1, max: 1
+ 0:52:29.306 ZmbM_ParamedicNormal_Red :: 10 % min: 0, max: 0
+ 0:52:29.306 ZmbM_PatientSkinny :: 5 % min: 0, max: 0
+ 0:52:29.306   pcs: 25
+ 0:52:29.306 
+ 0:52:29.306 [5] InfectedPolice :: dmax: 76.0, 2.1 % == 20 pcs
+ 0:52:29.306 ZmbF_PoliceWomanNormal :: 40 % min: 8, max: 8
+ 0:52:29.306 ZmbM_PolicemanFat :: 40 % min: 8, max: 8
+ 0:52:29.306 ZmbM_PolicemanSpecForce :: 10 % min: 4, max: 4
+ 0:52:29.306   pcs: 20
+ 0:52:29.306 
+ 0:52:29.306 [6] InfectedPrisoner :: dmax: 20.0, 0.5 % == 5 pcs
+ 0:52:29.306 ZmbM_PrisonerSkinny :: 100 % min: 5, max: 5
+ 0:52:29.306   pcs: 5
+ 0:52:29.306 
+ 0:52:29.306 [7] InfectedReligious :: dmax: 102.0, 2.8 % == 27 pcs
+ 0:52:29.306 ZmbM_priestPopSkinny :: 100 % min: 27, max: 27
+ 0:52:29.306   pcs: 27
+ 0:52:29.306 
+ 0:52:29.306 [8] InfectedSolitude :: dmax: 466.0, 12.8 % == 127 pcs
+ 0:52:29.306 ZmbF_HikerSkinny_Blue :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_HikerSkinny_Green :: 5 % min: 7, max: 7
+ 0:52:29.306 ZmbF_HikerSkinny_Grey :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbF_HikerSkinny_Red :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_FishermanOld_Blue :: 5 % min: 7, max: 7
+ 0:52:29.306 ZmbM_FishermanOld_Green :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_FishermanOld_Grey :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_FishermanOld_Red :: 5 % min: 7, max: 7
+ 0:52:29.306 ZmbM_HermitSkinny_Beige :: 10 % min: 12, max: 12
+ 0:52:29.306 ZmbM_HermitSkinny_Black :: 10 % min: 13, max: 13
+ 0:52:29.306 ZmbM_HermitSkinny_Green :: 10 % min: 13, max: 13
+ 0:52:29.306 ZmbM_HermitSkinny_Red :: 10 % min: 13, max: 13
+ 0:52:29.306 ZmbM_HikerSkinny_Blue :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_HikerSkinny_Green :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_HikerSkinny_Yellow :: 5 % min: 7, max: 7
+ 0:52:29.306 ZmbM_HunterOld_Autumn :: 5 % min: 6, max: 6
+ 0:52:29.306 ZmbM_HunterOld_Spring :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_HunterOld_Summer :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_HunterOld_Winter :: 5 % min: 0, max: 0
+ 0:52:29.306   pcs: 127
+ 0:52:29.306 
+ 0:52:29.306 [9] InfectedVillage :: dmax: 1792.0, 49.1 % == 490 pcs
+ 0:52:29.306 ZmbF_JoggerSkinny_Blue :: 6 % min: 29, max: 29
+ 0:52:29.306 ZmbF_JoggerSkinny_Brown :: 6 % min: 30, max: 30
+ 0:52:29.306 ZmbF_JoggerSkinny_Green :: 6 % min: 29, max: 29
+ 0:52:29.306 ZmbF_JoggerSkinny_Red :: 6 % min: 30, max: 30
+ 0:52:29.306 ZmbF_MilkMaidOld_Beige :: 5 % min: 24, max: 24
+ 0:52:29.306 ZmbF_MilkMaidOld_Black :: 5 % min: 25, max: 25
+ 0:52:29.306 ZmbF_MilkMaidOld_Green :: 5 % min: 24, max: 24
+ 0:52:29.306 ZmbF_MilkMaidOld_Grey :: 5 % min: 25, max: 25
+ 0:52:29.306 ZmbF_VillagerOld_Blue :: 5 % min: 24, max: 24
+ 0:52:29.306 ZmbF_VillagerOld_Green :: 5 % min: 25, max: 25
+ 0:52:29.306 ZmbF_VillagerOld_Red :: 5 % min: 24, max: 24
+ 0:52:29.306 ZmbF_VillagerOld_White :: 5 % min: 25, max: 25
+ 0:52:29.306 ZmbM_FarmerFat_Beige :: 6 % min: 29, max: 29
+ 0:52:29.306 ZmbM_FarmerFat_Blue :: 6 % min: 29, max: 29
+ 0:52:29.306 ZmbM_FarmerFat_Brown :: 6 % min: 30, max: 30
+ 0:52:29.306 ZmbM_FarmerFat_Green :: 6 % min: 29, max: 29
+ 0:52:29.306 ZmbM_Jacket_beige :: 5 % min: 25, max: 25
+ 0:52:29.306 ZmbM_Jacket_black :: 5 % min: 24, max: 24
+ 0:52:29.306 ZmbM_Jacket_blue :: 5 % min: 10, max: 10
+ 0:52:29.306 ZmbM_Jacket_bluechecks :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_brown :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_greenchecks :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_grey :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_khaki :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_magenta :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_Jacket_stripes :: 5 % min: 0, max: 0
+ 0:52:29.306 ZmbM_JoggerSkinny_Blue :: 6 % min: 0, max: 0
+ 0:52:29.306 ZmbM_JoggerSkinny_Green :: 6 % min: 0, max: 0
+ 0:52:29.306 ZmbM_JoggerSkinny_Red :: 6 % min: 0, max: 0
+ 0:52:29.306 ZmbM_VillagerOld_Blue :: 8 % min: 0, max: 0
+ 0:52:29.306 ZmbM_VillagerOld_Green :: 8 % min: 0, max: 0
+ 0:52:29.306 ZmbM_VillagerOld_White :: 8 % min: 0, max: 0
+ 0:52:29.306   pcs: 490
+ 0:52:29.306 
+ 0:52:29.306   total pcs: 994
+ 0:52:29.306 
+ 0:52:29.320 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+ 0:52:29.333 [CE][Storage] ver:24 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\vehicles.001"
+ 0:52:29.349 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\vehicles.002"
+ 0:52:29.349 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\vehicles.bin" 92 items.
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewDriverShadow'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewDriverShadowDiff'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewDriverShadowAmb'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewCargoShadow'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewCargoShadowDiff'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.350 Warning Message: No entry 'bin\config.bin/CfgVehicles/CivilianSedan.viewCargoShadowAmb'.
+ 0:52:29.350 Warning Message: '/' is not a value
+ 0:52:29.351 CivilianSedan: Glass1_destruct - unknown animation source hitglass1
+ 0:52:29.351 CivilianSedan: Glass2_destruct - unknown animation source hitglass2
+ 0:52:29.351 CivilianSedan: Glass3_destruct - unknown animation source hitglass3
+ 0:52:29.351 CivilianSedan: Glass4_destruct - unknown animation source hitglass4
+ 0:52:29.351 Warning Message: Animation source light_1_1 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.351 Warning Message: Animation source light_2_1 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.351 Warning Message: Animation source light_brake_1_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_brake_2_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_reverse_1_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_reverse_2_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_1_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_2_2 not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 Warning Message: Animation source light_dashboard not found in bin\config.bin/CfgVehicles/CivilianSedan/
+ 0:52:29.352 DamageSystem Warning: Selection dmgZone_lights_2_1 doesn't exists in fire geometry for entity CivilianSedan
+ 0:52:29.352 DamageSystem Warning: Selection dmgZone_lights_1_1 doesn't exists in fire geometry for entity CivilianSedan
+ 0:52:29.352 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Left.radius'.
+ 0:52:29.352 Warning Message: '/' is not a value
+ 0:52:29.352 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Right.radius'.
+ 0:52:29.352 Warning Message: '/' is not a value
+ 0:52:29.354 Warning Message: Cannot open object dz\vehicles\proxies\civiliansedan_driver.p3d
+ 0:52:29.354 Warning Message: Cannot open object dz\vehicles\proxies\civiliansedan_cargo.p3d
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewDriverShadow'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewDriverShadowDiff'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewDriverShadowAmb'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewCargoShadow'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewCargoShadowDiff'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.362 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02.viewCargoShadowAmb'.
+ 0:52:29.362 Warning Message: '/' is not a value
+ 0:52:29.364 Hatchback_02: Glass1_destruct - unknown animation source hitglass1
+ 0:52:29.364 Hatchback_02: Glass2_destruct - unknown animation source hitglass2
+ 0:52:29.364 Warning Message: Animation source light_1_1 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_2_1 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_brake_1_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_brake_2_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_reverse_1_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_reverse_2_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_1_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 Warning Message: Animation source light_2_2 not found in bin\config.bin/CfgVehicles/Hatchback_02/
+ 0:52:29.365 DamageSystem Warning: Selection dmgZone_lights_2_1 doesn't exists in fire geometry for entity Hatchback_02
+ 0:52:29.365 DamageSystem Warning: Selection dmgZone_lights_1_1 doesn't exists in fire geometry for entity Hatchback_02
+ 0:52:29.365 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Left.radius'.
+ 0:52:29.365 Warning Message: '/' is not a value
+ 0:52:29.365 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Right.radius'.
+ 0:52:29.365 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewDriverShadow'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewDriverShadowDiff'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewDriverShadowAmb'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewCargoShadow'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewCargoShadowDiff'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.393 Warning Message: No entry 'bin\config.bin/CfgVehicles/OffroadHatchback.viewCargoShadowAmb'.
+ 0:52:29.393 Warning Message: '/' is not a value
+ 0:52:29.395 OffroadHatchback: Glass1_destruct - unknown animation source hitglass1
+ 0:52:29.395 OffroadHatchback: Glass2_destruct - unknown animation source hitglass2
+ 0:52:29.395 Warning Message: Animation source light_left not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_right not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_brake_1_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_brake_2_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_reverse_1_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_reverse_2_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_1_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_2_2 not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.395 Warning Message: Animation source light_dashboard not found in bin\config.bin/CfgVehicles/OffroadHatchback/
+ 0:52:29.396 DamageSystem Warning: Selection dmgZone_fuelTank doesn't exists in fire geometry for entity OffroadHatchback
+ 0:52:29.396 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Left.radius'.
+ 0:52:29.396 Warning Message: '/' is not a value
+ 0:52:29.396 Warning Message: No entry 'bin\config.bin/CfgVehicles/Car/Reflectors/Right.radius'.
+ 0:52:29.396 Warning Message: '/' is not a value
+ 0:52:29.397 Warning Message: Cannot open object dz\vehicles\proxies\bus_driver.p3d
+ 0:52:29.398 Warning Message: Cannot open object dz\vehicles\proxies\bus_cargo.p3d
+ 0:52:29.456   92 items loaded.
+ 0:52:29.470 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+ 0:52:29.476 [CE][Storage] ver:24 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+ 0:52:29.481 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+ 0:52:29.481 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 620 items.
+ 0:52:29.487 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.487 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.491 Mosin9130: bolt_reload_unlock - unknown animation source reloadmagazine
+ 0:52:29.491 Mosin9130: bolt_fired_unlock - unknown animation source reload
+ 0:52:29.491 Mosin9130: magazine - unknown animation source magazineshow
+ 0:52:29.491 Mosin9130: bullet - unknown animation source bulletshow
+ 0:52:29.491 Mosin9130: bolt_reload_unlock - unknown animation source reloadmagazine
+ 0:52:29.491 Mosin9130: bolt_fired_unlock - unknown animation source reload
+ 0:52:29.491 Mosin9130: magazine - unknown animation source magazineshow
+ 0:52:29.491 Mosin9130: bullet - unknown animation source bulletshow
+ 0:52:29.492 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_PUScope.AnimationSources'.
+ 0:52:29.492 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_PUScope/
+ 0:52:29.514 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.528 Mp133Shotgun: trigger_reload_1 - unknown animation source reload
+ 0:52:29.528 Mp133Shotgun: pump_move_back_rel - unknown animation source reloadmagazine
+ 0:52:29.528 Mp133Shotgun: magazine - unknown animation source magazineshow
+ 0:52:29.528 Mp133Shotgun: bullet - unknown animation source bulletshow
+ 0:52:29.528 Mp133Shotgun: trigger_reload_1 - unknown animation source reload
+ 0:52:29.528 Mp133Shotgun: pump_move_back_rel - unknown animation source reloadmagazine
+ 0:52:29.528 Mp133Shotgun: magazine - unknown animation source magazineshow
+ 0:52:29.528 Mp133Shotgun: bullet - unknown animation source bulletshow
+ 0:52:29.538 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.584 Winchester70: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.584 Winchester70: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.585 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting.AnimationSources'.
+ 0:52:29.585 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting/
+ 0:52:29.585 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting.AnimationSources'.
+ 0:52:29.585 Warning Message: Animation source rings_ris not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting/
+ 0:52:29.585 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting.AnimationSources'.
+ 0:52:29.585 Warning Message: Animation source rings_ris_pilot not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting/
+ 0:52:29.585 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting.AnimationSources'.
+ 0:52:29.585 Warning Message: Animation source rings_winchester not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting/
+ 0:52:29.585 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting.AnimationSources'.
+ 0:52:29.585 Warning Message: Animation source rings_winchester_pilot not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_Hunting/
+ 0:52:29.601 M4A1: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.601 M4A1: bolt_empty - unknown animation source isempty
+ 0:52:29.601 M4A1: bolt_fire_begin - unknown animation source reload
+ 0:52:29.601 M4A1: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.601 M4A1: bolt_empty - unknown animation source isempty
+ 0:52:29.601 M4A1: bolt_fire_begin - unknown animation source reload
+ 0:52:29.607 Mag_STANAG_30Rnd: bullets - unknown animation source revolving
+ 0:52:29.607 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.628 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.628 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.676 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/TacticalGloves_Black/
+ 0:52:29.796 String "STR_DN_FX_CARTRIDGE" not found
+ 0:52:29.799 Warning Message: No entry 'bin\config.bin/CfgVehicles/NylonKnifeSheath.ClothingTypes'.
+ 0:52:29.803 CZ527: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.803 CZ527: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.835 MakarovIJ70: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.835 MakarovIJ70: hammer_fire_begin - unknown animation source reload
+ 0:52:29.835 MakarovIJ70: hammer_empty - unknown animation source isempty
+ 0:52:29.835 MakarovIJ70: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.835 MakarovIJ70: hammer_fire_begin - unknown animation source reload
+ 0:52:29.835 MakarovIJ70: hammer_empty - unknown animation source isempty
+ 0:52:29.934 SKS: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.934 SKS: bolt_empty - unknown animation source isempty
+ 0:52:29.934 SKS: bolt_fire_begin - unknown animation source reload
+ 0:52:29.934 SKS: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.934 SKS: bolt_empty - unknown animation source isempty
+ 0:52:29.934 SKS: bolt_fire_begin - unknown animation source reload
+ 0:52:29.955 Warning Message: No entry 'bin\config.bin/CfgVehicles/DirtBikeHelmet_Mouthguard.ClothingTypes'.
+ 0:52:29.958 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyNVG.AnimationSources'.
+ 0:52:29.958 Warning Message: Animation source rotate not found in bin\config.bin/CfgNonAIVehicles/ProxyNVG/
+ 0:52:29.958 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyNVG.AnimationSources'.
+ 0:52:29.958 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxyNVG/
+ 0:52:29.977 UMP45: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.977 UMP45: bolt_empty - unknown animation source isempty
+ 0:52:29.977 UMP45: bolt_fire_begin - unknown animation source reload
+ 0:52:29.977 UMP45: magazine_hide - unknown animation source reloadmagazine
+ 0:52:29.977 UMP45: bolt_empty - unknown animation source isempty
+ 0:52:29.977 UMP45: bolt_fire_begin - unknown animation source reload
+ 0:52:30.00 Warning Message: No entry 'bin\config.bin/CfgVehicles/DirtBikeHelmet_Visor.ClothingTypes'.
+ 0:52:30.24 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/TacticalGloves_Beige/
+ 0:52:30.71 ProxyFNP45: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.71 ProxyFNP45: hammer_fire_begin - unknown animation source reload
+ 0:52:30.71 ProxyFNP45: hammer_empty - unknown animation source isempty
+ 0:52:30.71 ProxyFNP45: magazine - unknown animation source magazineshow
+ 0:52:30.71 ProxyFNP45: bullet - unknown animation source bulletshow
+ 0:52:30.111   620 items loaded.
+ 0:52:30.123 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+ 0:52:30.141 [CE][Storage] ver:24 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+ 0:52:30.149 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+ 0:52:30.149 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1485 items.
+ 0:52:30.171 AK101: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.171 AK101: bolt_empty - unknown animation source isempty
+ 0:52:30.171 AK101: bolt_fire_begin - unknown animation source reload
+ 0:52:30.171 AK101: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.171 AK101: bolt_empty - unknown animation source isempty
+ 0:52:30.171 AK101: bolt_fire_begin - unknown animation source reload
+ 0:52:30.172 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyOptic_PSO1.AnimationSources'.
+ 0:52:30.172 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxyOptic_PSO1/
+ 0:52:30.187 MP5K: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.187 MP5K: bolt_empty - unknown animation source isempty
+ 0:52:30.187 MP5K: bolt_fire_begin - unknown animation source reload
+ 0:52:30.187 MP5K: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.187 MP5K: bolt_empty - unknown animation source isempty
+ 0:52:30.187 MP5K: bolt_fire_begin - unknown animation source reload
+ 0:52:30.308 SVD: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.308 SVD: bolt_empty - unknown animation source isempty
+ 0:52:30.308 SVD: bolt_fire_begin - unknown animation source reload
+ 0:52:30.308 SVD: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.308 SVD: bolt_empty - unknown animation source isempty
+ 0:52:30.308 SVD: bolt_fire_begin - unknown animation source reload
+ 0:52:30.338 FAL: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.338 FAL: bolt_empty - unknown animation source isempty
+ 0:52:30.338 FAL: bolt_fire_begin - unknown animation source reload
+ 0:52:30.338 FAL: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.338 FAL: bolt_empty - unknown animation source isempty
+ 0:52:30.338 FAL: bolt_fire_begin - unknown animation source reload
+ 0:52:30.348 CZ75: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.348 CZ75: hammer_fire_begin - unknown animation source reload
+ 0:52:30.348 CZ75: hammer_empty - unknown animation source isempty
+ 0:52:30.348 CZ75: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.348 CZ75: hammer_fire_begin - unknown animation source reload
+ 0:52:30.348 CZ75: hammer_empty - unknown animation source isempty
+ 0:52:30.406 VSS: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.406 VSS: bolt_empty - unknown animation source isempty
+ 0:52:30.406 VSS: bolt_fire_begin - unknown animation source reload
+ 0:52:30.406 VSS: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.406 VSS: bolt_empty - unknown animation source isempty
+ 0:52:30.406 VSS: bolt_fire_begin - unknown animation source reload
+ 0:52:30.477 FNX45: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.477 FNX45: hammer_fire_begin - unknown animation source reload
+ 0:52:30.477 FNX45: hammer_empty - unknown animation source isempty
+ 0:52:30.477 FNX45: magazine - unknown animation source magazineshow
+ 0:52:30.477 FNX45: bullet - unknown animation source bulletshow
+ 0:52:30.477 FNX45: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.477 FNX45: hammer_fire_begin - unknown animation source reload
+ 0:52:30.477 FNX45: hammer_empty - unknown animation source isempty
+ 0:52:30.477 FNX45: magazine - unknown animation source magazineshow
+ 0:52:30.477 FNX45: bullet - unknown animation source bulletshow
+ 0:52:30.602 AKM: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.602 AKM: bolt_empty - unknown animation source isempty
+ 0:52:30.602 AKM: bolt_fire_begin - unknown animation source reload
+ 0:52:30.602 AKM: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.602 AKM: bolt_empty - unknown animation source isempty
+ 0:52:30.602 AKM: bolt_fire_begin - unknown animation source reload
+ 0:52:30.792 AK74: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.792 AK74: bolt_empty - unknown animation source isempty
+ 0:52:30.792 AK74: bolt_fire_begin - unknown animation source reload
+ 0:52:30.792 AK74: magazine_hide - unknown animation source reloadmagazine
+ 0:52:30.792 AK74: bolt_empty - unknown animation source isempty
+ 0:52:30.792 AK74: bolt_fire_begin - unknown animation source reload
+ 0:52:30.864   1485 items loaded.
+ 0:52:30.875 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+ 0:52:30.888 [CE][Storage] ver:24 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+ 0:52:30.902 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+ 0:52:30.902 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2186 items.
+ 0:52:31.02 Warning Message: No entry 'bin\config.bin/CfgVehicles/ACOGOptic/OpticsInfoWeaponOverride.opticsZoomMin'.
+ 0:52:31.02 Warning Message: '/' is not a value
+ 0:52:31.02 Warning Message: No entry 'bin\config.bin/CfgVehicles/ACOGOptic/OpticsInfoWeaponOverride.opticsZoomMax'.
+ 0:52:31.02 Warning Message: '/' is not a value
+ 0:52:31.02 Warning Message: No entry 'bin\config.bin/CfgVehicles/ACOGOptic/OpticsInfoWeaponOverride.opticsZoomInit'.
+ 0:52:31.02 Warning Message: '/' is not a value
+ 0:52:31.10 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:31.109 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:31.154 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:31.156 CZ61: magazine_hide - unknown animation source reloadmagazine
+ 0:52:31.156 CZ61: magazine_hide - unknown animation source reloadmagazine
+ 0:52:31.330 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:31.519 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:31.530   2186 items loaded.
+ 0:52:31.542 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+ 0:52:31.553 [CE][Storage] ver:24 stamp:452, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+ 0:52:31.565 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+ 0:52:31.565 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1833 items.
+ 0:52:31.582 Warning Message: No entry 'bin\config.bin/CfgVehicles/NVGoggles/OpticsInfo.modelOptics'.
+ 0:52:31.582 Warning Message: '/' is not a value
+ 0:52:31.598 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/TacticalGloves_Green/
+ 0:52:31.701 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:31.741 Izh18: trigger_reload_rot - unknown animation source reload
+ 0:52:31.741 Izh18: barrel_release - unknown animation source reloadmagazine
+ 0:52:31.741 Izh18: bullet - unknown animation source bulletshow
+ 0:52:31.741 Izh18: trigger_reload_rot - unknown animation source reload
+ 0:52:31.741 Izh18: barrel_release - unknown animation source reloadmagazine
+ 0:52:31.741 Izh18: bullet - unknown animation source bulletshow
+ 0:52:31.863 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:32.35 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:32.100   1833 items loaded.
+ 0:52:32.112 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+ 0:52:32.127 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+ 0:52:32.138 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+ 0:52:32.139 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_004.001" 1656 items.
+ 0:52:32.499 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:32.550 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:32.623   1656 items loaded.
+ 0:52:32.632 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+ 0:52:32.647 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+ 0:52:32.659 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+ 0:52:32.659 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_005.001" 1919 items.
+ 0:52:33.177 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:33.340   1919 items loaded.
+ 0:52:33.349 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+ 0:52:33.359 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+ 0:52:33.372 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+ 0:52:33.372 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_006.001" 1386 items.
+ 0:52:33.379 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:33.682 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:33.851   1386 items loaded.
+ 0:52:33.860 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+ 0:52:33.871 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+ 0:52:33.881 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+ 0:52:33.881 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_007.001" 1322 items.
+ 0:52:34.162 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:34.306 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:34.311 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:34.323 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:34.385 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:34.401   1322 items loaded.
+ 0:52:34.423 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+ 0:52:34.431 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+ 0:52:34.443 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+ 0:52:34.443 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_008.001" 2032 items.
+ 0:52:34.456 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:35.78 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:35.84 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:35.217 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:35.243 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:35.251   2032 items loaded.
+ 0:52:35.261 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+ 0:52:35.271 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+ 0:52:35.283 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+ 0:52:35.283 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_009.001" 2312 items.
+ 0:52:36.171 Type 'Mosin_Compensator' must be inherited from class 'ItemSuppressor'
+ 0:52:36.466   2312 items loaded.
+ 0:52:36.466 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+ 0:52:36.474 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+ 0:52:36.489 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+ 0:52:36.489 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_010.001" 1516 items.
+ 0:52:36.920 Type 'PistolSuppressor' must be inherited from class 'ItemSuppressor'
+ 0:52:37.187   1516 items loaded.
+ 0:52:37.199 [CE][Storage] ver:24 stamp:454, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+ 0:52:37.201 [CE][Storage] ver:24 stamp:455, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+ 0:52:37.202 [CE][Storage] ver:24 stamp:453, valid:yes, name:"mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+ 0:52:37.202 [CE][Storage] Restoring file "mpmissions\myDayzOffline.chernarusplus\storage_1\data\dynamic_011.001" 174 items.
+ 0:52:37.276   174 items loaded.
+ 0:52:37.291 [CE][Hive] :: Storage load took:7.98 seconds, recovery stamp:455
+ 0:52:37.291   entity: 19660, building: 0
+ 0:52:37.291   no lifetime: 40
+ 0:52:37.292 [CE][Hive] :: Initializing ... 
+ 0:52:37.304 [CE][InitializeMap] :: initialized: 0
+ 0:52:37.304 [CE][Hive] :: Initializing spawners ... 
+ 0:52:39.49 MATERIAL  (E): Object dz/characters/zombies/z_hermit_m.xob - cannot load material Material_1.emat
+
+ 0:52:39.477 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+ 0:52:39.477 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+ 0:52:39.477 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+ 0:52:39.528 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:21548, Total in Map: 18570 at 0 (sec)
+ 0:52:39.528   tests:0, repeats:0 fails:0, overtime:0
+ 0:52:39.528 [CE][DynEvent] :: 34 types
+ 0:52:39.528 [00] AmbientHen
+ 0:52:39.528   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:52:39.528 [01] AnimalCow
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [02] AnimalDeer
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [03] AnimalGoat
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [04] AnimalPig
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [05] AnimalRoeDeer
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [06] AnimalSheep
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [07] AnimalWildBoar
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [08] AnimalWolf
+ 0:52:39.528   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:52:39.528 [09] InfectedArmy
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [10] InfectedCity
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [11] InfectedFirefighter
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [12] InfectedIndustrial
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [13] InfectedMedic
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [14] InfectedPolice
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [15] InfectedPrisoner
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [16] InfectedReligious
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [17] InfectedSolitude
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [18] InfectedVillage
+ 0:52:39.528   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.528 [19] ItemPlanks
+ 0:52:39.528   Primary Spawner: "Item", active: yes, repeat: 1
+ 0:52:39.528 [20] Loot
+ 0:52:39.528   Primary Spawner: "Loot", active: yes, repeat: 2
+ 0:52:39.528 [21] StaticHeliCrash
+ 0:52:39.529   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:52:39.529   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 0:52:39.529 [22] StaticPoliceCar
+ 0:52:39.529   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:52:39.529 [23] TrajectoryApple
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [24] TrajectoryCanina
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [25] TrajectoryConiferous
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [26] TrajectoryDeciduous
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [27] TrajectoryHumus
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [28] TrajectoryPear
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [29] TrajectoryPlum
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [30] TrajectorySambucus
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [31] TrajectoryStones
+ 0:52:39.529   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:52:39.529 [32] VehicleCivilianSedan
+ 0:52:39.529   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:52:39.529 [33] VehicleOffroadHatchback
+ 0:52:39.529   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:52:39.529 [CE][Hive] :: Initializing of spawners done.
+ 0:52:39.534 [CE][Hive] :: Init sequence finished.
+ 0:52:39.534 Player connect enabled
+ 0:52:39.801 Used memory: 1108702 KB
+ 0:52:39.801 Players: 0 in total
+ 0:52:40.500 PerfWarning: Way too much components (797) in dz\structures\specific\prison\prison_main.p3d:geometryFire
+ 0:52:40.538 PerfWarning: Way too much components (656) in dz\structures\specific\prison\proxy\prison_maincastle_bars.p3d:geometryFire
+ 0:52:40.556 PerfWarning: Way too much components (834) in dz\structures\specific\prison\proxy\prison_main_int_stairs.p3d:geometryFire
+ 0:52:40.563 PerfWarning: Way too much components (624) in dz\structures\specific\prison\proxy\prison_maincastle_windows_02.p3d:geometryFire
+ 0:52:40.571 PerfWarning: Way too much components (904) in dz\structures\specific\prison\proxy\prison_maincastle_windows.p3d:geometryFire
+ 0:52:40.774 PerfWarning: Way too much components (1020) in dz\structures\industrial\cementworks\cementworks_expeditiona.p3d:geometryFire
+ 0:52:40.821 Used memory: 1142287 KB
+ 0:52:40.822 Players: 0 in total
+ 0:52:40.837 PerfWarning: Way too much components (922) in dz\structures\residential\houses\village_pub.p3d:geometryFire
+ 0:52:41.433 PerfWarning: Way too much components (601) in dz\structures\industrial\construction\construction_crane.p3d:geometryFire
+ 0:52:41.560 PerfWarning: Way too much components (753) in dz\structures\wrecks\vehicles\wreck_t72_chassis.p3d:geometryFire
+ 0:52:41.565 PerfWarning: Way too much components (592) in dz\structures\military\houses\mil_guardtower.p3d:geometryFire
+ 0:52:41.602 PerfWarning: Way too much components (652) in dz\structures\military\improvised\mil_tent_big4.p3d:geometryFire
+ 0:52:41.609 PerfWarning: Way too much components (573) in dz\structures\military\improvised\hbarrier_round.p3d:geometryFire
+ 0:52:41.632 PerfWarning: Way too much components (1022) in dz\structures\wrecks\vehicles\wreck_bmp1.p3d:geometryFire
+ 0:52:41.827 PerfWarning: Way too much components (627) in dz\structures\military\airfield\airfield_servicehangar_r.p3d:geometryFire
+ 0:52:41.893 Used memory: 1205958 KB
+ 0:52:41.893 Players: 0 in total
+ 0:52:42.894 Used memory: 1205652 KB
+ 0:52:42.894 Players: 0 in total
+ 0:52:43.895 Used memory: 1206182 KB
+ 0:52:43.895 Players: 0 in total
+ 0:52:44.894 Used memory: 1206688 KB
+ 0:52:44.894 Players: 0 in total
+ 0:52:45.894 Used memory: 1206710 KB
+ 0:52:45.894 Players: 0 in total
+ 0:52:46.894 Used memory: 1206859 KB
+ 0:52:46.894 Players: 0 in total
+ 0:52:47.894 Used memory: 1206948 KB
+ 0:52:47.894 Players: 0 in total
+ 0:52:48.895 Used memory: 1206948 KB
+ 0:52:48.895 Players: 0 in total
+ 0:52:49.894 Used memory: 1207310 KB
+ 0:52:49.894 Players: 0 in total
+ 0:52:50.895 Used memory: 1207366 KB
+ 0:52:50.895 Players: 0 in total
+ 0:52:51.894 Used memory: 1208634 KB
+ 0:52:51.894 Players: 0 in total
+ 0:52:52.894 Used memory: 1208648 KB
+ 0:52:52.894 Players: 0 in total
+ 0:52:53.894 Used memory: 1208766 KB
+ 0:52:53.895 Players: 0 in total
+ 0:52:54.954 Used memory: 1209422 KB
+ 0:52:54.954 Players: 0 in total
+ 0:52:55.954 Used memory: 1209425 KB
+ 0:52:55.954 Players: 0 in total
+ 0:52:56.958 Used memory: 1209428 KB
+ 0:52:56.958 Players: 0 in total
+ 0:52:57.958 Used memory: 1209781 KB
+ 0:52:57.958 Players: 0 in total
+ 0:52:59.34 Used memory: 1209867 KB
+ 0:52:59.34 Players: 0 in total
+ 0:53:00.36 Used memory: 1210276 KB
+ 0:53:00.36 Players: 0 in total
+ 0:53:01.35 Used memory: 1210275 KB
+ 0:53:01.35 Players: 0 in total
+ 0:53:02.41 Used memory: 1210276 KB
+ 0:53:02.41 Players: 0 in total
+ 0:53:02.277 [Login]: Adding player Aist (1377032183) to login queue at position 1
+ 0:53:02.277 [LoginMachine]: Add player Aist (1377032183)
+ 0:53:02.277 [StateMachine]: Player Aist (dpnid 1377032183 uid ) Entering AuthPlayerLoginState
+ 0:53:02.277 Server: SetClientState dpid=1377032183 id=0 name=Aist CREATED -> CONNECTED
+ 0:53:02.615 [StateMachine]: Player Aist (dpnid 1377032183 uid ) Entering WaitAuthPlayerLoginState
+ 0:53:03.41 Used memory: 1210471 KB
+ 0:53:03.41 Players: 1 in total
+ 0:53:04.69 Used memory: 1212461 KB
+ 0:53:04.69 Players: 1 in total
+ 0:53:05.69 Used memory: 1212046 KB
+ 0:53:05.69 Players: 1 in total
+ 0:53:06.69 Used memory: 1212126 KB
+ 0:53:06.69 Players: 1 in total
+ 0:53:06.779 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering DBGetLoginTimeLoginState
+ 0:53:06.852 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering DBWaitLoginTimeLoginState
+ 0:53:07.70 Used memory: 1212135 KB
+ 0:53:07.70 Players: 1 in total
+ 0:53:08.70 Used memory: 1212413 KB
+ 0:53:08.70 Players: 1 in total
+ 0:53:09.273 Used memory: 1213308 KB
+ 0:53:09.273 Players: 1 in total
+ 0:53:10.358 Used memory: 1213574 KB
+ 0:53:10.358 Players: 1 in total
+ 0:53:11.358 Used memory: 1213201 KB
+ 0:53:11.358 Players: 1 in total
+ 0:53:12.359 Used memory: 1213118 KB
+ 0:53:12.359 Players: 1 in total
+ 0:53:13.358 Used memory: 1213089 KB
+ 0:53:13.358 Players: 1 in total
+ 0:53:14.358 Used memory: 1213091 KB
+ 0:53:14.358 Players: 1 in total
+ 0:53:15.358 Used memory: 1213094 KB
+ 0:53:15.358 Players: 1 in total
+ 0:53:16.357 Used memory: 1213094 KB
+ 0:53:16.357 Players: 1 in total
+ 0:53:17.358 Used memory: 1213175 KB
+ 0:53:17.359 Players: 1 in total
+ 0:53:18.359 Used memory: 1213504 KB
+ 0:53:18.359 Players: 1 in total
+ 0:53:19.359 Used memory: 1213505 KB
+ 0:53:19.359 Players: 1 in total
+ 0:53:20.360 Used memory: 1213511 KB
+ 0:53:20.360 Players: 1 in total
+ 0:53:21.359 Used memory: 1213590 KB
+ 0:53:21.359 Players: 1 in total
+ 0:53:21.852 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering DBGetCharacterLoginState
+ 0:53:21.860 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering CreateNetObjectsLoginState
+ 0:53:21.860 Server: SetClientState dpid=1377032183 id=0 name=Aist PLAYER ASSIGNED -> MISSION RECEIVED
+ 0:53:21.901 Server: SetClientState dpid=1377032183 id=0 name=Aist MISSION RECEIVED -> GAME LOADED
+ 0:53:21.901 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering PreloadCamLoginState
+ 0:53:21.901 Login: Player Aist (1377032183) preloading at: 13032.707031 5.781155 7920.990234, yaw: -1.186409, new: 0
+ 0:53:21.901 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering WaitPreloadCamLoginState
+ 0:53:22.359 Used memory: 1216727 KB
+ 0:53:22.359 Players: 1 in total
+ 0:53:23.360 Used memory: 1216727 KB
+ 0:53:23.360 Players: 1 in total
+ 0:53:24.360 Used memory: 1216827 KB
+ 0:53:24.360 Players: 1 in total
+ 0:53:25.359 Used memory: 1216827 KB
+ 0:53:25.359 Players: 1 in total
+ 0:53:26.360 Used memory: 1216995 KB
+ 0:53:26.360 Players: 1 in total
+ 0:53:27.360 Used memory: 1216995 KB
+ 0:53:27.360 Players: 1 in total
+ 0:53:28.360 Used memory: 1218821 KB
+ 0:53:28.360 Players: 1 in total
+ 0:53:29.358 Used memory: 1219211 KB
+ 0:53:29.358 Players: 1 in total
+ 0:53:30.132 PerfWarning: Way too much components (515) in dz\structures\specific\hotel\hotel.p3d:geometryFire
+ 0:53:30.359 Used memory: 1220458 KB
+ 0:53:30.359 Players: 1 in total
+ 0:53:31.360 Used memory: 1221503 KB
+ 0:53:31.360 Players: 1 in total
+ 0:53:32.359 Used memory: 1221516 KB
+ 0:53:32.359 Players: 1 in total
+ 0:53:33.359 Used memory: 1222013 KB
+ 0:53:33.359 Players: 1 in total
+ 0:53:34.359 Used memory: 1222024 KB
+ 0:53:34.359 Players: 1 in total
+ 0:53:35.360 Used memory: 1222027 KB
+ 0:53:35.360 Players: 1 in total
+ 0:53:36.361 Used memory: 1222028 KB
+ 0:53:36.361 Players: 1 in total
+ 0:53:37.361 Used memory: 1221943 KB
+ 0:53:37.361 Players: 1 in total
+ 0:53:38.80 [StateMachine]: Player Aist (dpnid 1377032183 uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=) Entering GetLoadedCharLoginState
+ 0:53:38.105 MATERIAL  (E): Object dz/characters/bodies/player_testing.xob - cannot load material cross_red.emat
+
+ 0:53:38.363 ANIMATION (E): Animation 'dz/anims/anm/player/ik/attachments/light/universallight.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.364 ANIMATION (E): Animation 'dz/anims/anm/player/ik/attachments/light/tlrlight.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.368 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/combatknife.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.395 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/flashlight.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.403 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/CSLA_Field_Shovel.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.404 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/crowbar.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.406 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/machete.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.413 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/brassknuckles.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.414 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/flanged_mace.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.414 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/handsaw.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.427 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/barbed_wire.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.427 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/battery_charger.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.427 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/christmas_lights.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.427 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/fence_kit_folded.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.467 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/burlap_strips.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.467 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/SmallStone.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.472 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/roadflare.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.473 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/chemlight.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.480 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/netting.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.480 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/Bark_oak.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.480 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/Bark_birch.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.480 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/Pelt_Rabbit.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.480 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/Pelt_Pig.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.490 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/child_g.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.490 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/smersh_g.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.490 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/GhillieBushrag.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.494 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/FireplaceIndoor.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.495 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/metalwire.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.495 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/torch.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.496 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/hand_drill_kit.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.496 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/WoodenStick.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.496 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/LongWoodenStick.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.498 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/plant_material.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.505 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/guts_animal_small.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.505 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/guts_animal.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.507 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/tetracycline_tablets.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.508 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/Syringe_Empty.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.543 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/thermometer.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.551 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/compass.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.551 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/compass_modern.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.556 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/megaphone.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.556 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/landmine.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.556 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/improvised_fish_trap.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.557 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/gorka_helmet.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.557 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/gorka_helmet_complete.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.623 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/plate_carrier_pouches_g.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.623 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/plate_carrier_holster.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.623 ANIMATION (E): Animation 'dz/anims/anm/player/ik/gear/book.anm' has undefined bone 'rightforehanddirection'
+
+ 0:53:38.748 RESOURCES (E): Failed to open object @"DZ/anims/anm/player/attacks/rifle/p_rfl_long_erc_melee_attack_bayonet.anm"
+
+ 0:53:38.750 RESOURCES (E): Failed to open object @"DZ/anims/anm/player/attacks/rifle/p_rfl_Short_erc_attackL_Light_low.anm"
+
+ 0:53:38.750 RESOURCES (E): Failed to open object @"DZ/anims/anm/player/attacks/rifle/p_rfl_Short_erc_attackR_Light_low.anm"
+
+ 0:53:38.766 RESOURCES (E): Failed to open object @"DZ/anims/anm/player/attacks/rifle/p_rfl_Long_erc_attackL_Light_low.anm"
+
+ 0:53:38.766 RESOURCES (E): Failed to open object @"DZ/anims/anm/player/attacks/rifle/p_rfl_Long_erc_attackR_Light_low.anm"
+
+ 0:53:48.387 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.takingDamageHeavy_male_1_gasmask_SoundVoice_Char_SoundShader'.
+ 0:53:48.387 Warning Message: No entry '.samples'.
+ 0:53:48.387 Warning Message: Size: '/' not an array
+ 0:53:48.387 Warning Message: Size: '/' not an array
+ 0:53:48.387 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.takingDamageHeavy_male_2_gag_SoundVoice_Char_SoundShader'.
+ 0:53:48.387 Warning Message: No entry '.samples'.
+ 0:53:48.387 Warning Message: Size: '/' not an array
+ 0:53:48.387 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.staminaUpEnd_male_1_gasmask_SoundVoice_Char_SoundShader'.
+ 0:53:48.397 Warning Message: No entry '.samples'.
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.staminaUpEnd_male_2_gasmask_SoundVoice_Char_SoundShader'.
+ 0:53:48.397 Warning Message: No entry '.samples'.
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.staminaUpEnd_male_2_gag_SoundVoice_Char_SoundShader'.
+ 0:53:48.397 Warning Message: No entry '.samples'.
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.397 Warning Message: Size: '/' not an array
+ 0:53:48.462 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/SurvivorM_Elias/
+ 0:53:48.489 Warning Message: Cannot open object dz\weapons\attachments\optics\optic_fnp45_mrd.p3d
+ 0:53:48.515 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/MaleEliasHands/
+ 0:53:48.515 Type 'MaleEliasHands' must be inherited from class 'InventoryItem'
+ 0:53:48.516 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/MaleEliasTorso/
+ 0:53:48.516 Type 'MaleEliasTorso' must be inherited from class 'InventoryItem'
+ 0:53:48.517 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/MaleEliasLegs/
+ 0:53:48.517 Type 'MaleEliasLegs' must be inherited from class 'InventoryItem'
+ 0:53:48.518 Warning Message: Animation source Beard not found in bin\config.bin/CfgVehicles/MaleEliasFeet/
+ 0:53:48.518 Type 'MaleEliasFeet' must be inherited from class 'InventoryItem'
+ 0:53:48.592 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1377032183
+    uid xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA=
+ 0:53:48.592 Used memory: 1244833 KB
+ 0:53:48.592 Players: 1 in total
+ 0:53:48.735 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+ 0:53:48.735 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+ 0:53:48.735 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+ 0:53:49.592 Used memory: 1246619 KB
+ 0:53:49.592 Players: 1 in total
+ 0:53:50.610 Used memory: 1247120 KB
+ 0:53:50.610 Players: 1 in total
+ 0:53:51.612 Used memory: 1246824 KB
+ 0:53:51.612 Players: 1 in total
+ 0:53:52.612 Used memory: 1246855 KB
+ 0:53:52.612 Players: 1 in total
+ 0:53:53.616 Used memory: 1246871 KB
+ 0:53:53.616 Players: 1 in total
+ 0:53:54.620 Used memory: 1246911 KB
+ 0:53:54.620 Players: 1 in total
+ 0:53:55.373 [Disconnect]: Start script disconnect 1377032183 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:53:55.627 Used memory: 1246931 KB
+ 0:53:55.627 Players: 1 in total
+ 0:53:56.655 Used memory: 1246969 KB
+ 0:53:56.656 Players: 1 in total
+ 0:53:57.656 Used memory: 1246983 KB
+ 0:53:57.657 Players: 1 in total
+ 0:53:58.656 Used memory: 1247191 KB
+ 0:53:58.656 Players: 1 in total
+ 0:53:59.516 PerfWarning: Way too much components (954) in dz\structures\industrial\cementworks\cementworks_millb.p3d:geometryFire
+ 0:53:59.656 Used memory: 1249502 KB
+ 0:53:59.656 Players: 1 in total
+ 0:54:00.656 Used memory: 1249518 KB
+ 0:54:00.656 Players: 1 in total
+ 0:54:01.657 Used memory: 1249533 KB
+ 0:54:01.657 Players: 1 in total
+ 0:54:02.658 Used memory: 1251594 KB
+ 0:54:02.658 Players: 1 in total
+ 0:54:03.658 Used memory: 1251625 KB
+ 0:54:03.658 Players: 1 in total
+ 0:54:04.658 Used memory: 1251688 KB
+ 0:54:04.658 Players: 1 in total
+ 0:54:05.659 Used memory: 1251712 KB
+ 0:54:05.659 Players: 1 in total
+ 0:54:06.658 Used memory: 1254431 KB
+ 0:54:06.658 Players: 1 in total
+ 0:54:07.658 Used memory: 1254450 KB
+ 0:54:07.658 Players: 1 in total
+ 0:54:08.658 Used memory: 1254522 KB
+ 0:54:08.658 Players: 1 in total
+ 0:54:09.658 Used memory: 1254539 KB
+ 0:54:09.658 Players: 1 in total
+ 0:54:10.446 CHAR_DEBUG - SAVE
+ 0:54:10.446     player Aist (dpnid = 1377032183)
+ 0:54:10.446     Identity: playerID = 1 , charID = 1
+ 0:54:10.446     Person  : playerID = 1 , charID = 1
+ 0:54:10.447 CHAR_DEBUG - EXIT
+ 0:54:10.447     player xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA= (dpnid = 1377032183)
+ 0:54:10.447     Person  : playerID = 1 , charID = 1
+ 0:54:10.447 [Disconnect]: Finish script disconnect 1377032183
+ 0:54:10.466 [Disconnect]: DisconnectPlayerFinish 1377032183
+ 0:54:10.487 Client: Nonnetwork object 392f6b00.
+ 0:54:10.659 Used memory: 1254995 KB
+ 0:54:10.659 Players: 1 in total
+ 0:54:10.660 [Disconnect]: Remove player info 1377032183
+ 0:54:10.662 [Disconnect]: Player destroy 1377032183 
+ 0:54:11.671 Used memory: 1255084 KB
+ 0:54:11.671 Players: 0 in total
+ 0:54:12.671 Used memory: 1255098 KB
+ 0:54:12.671 Players: 0 in total
+ 0:54:13.670 Used memory: 1255100 KB
+ 0:54:13.671 Players: 0 in total
+ 0:54:14.671 Used memory: 1255327 KB
+ 0:54:14.671 Players: 0 in total
+ 0:54:15.671 Used memory: 1255597 KB
+ 0:54:15.671 Players: 0 in total
+ 0:54:16.672 Used memory: 1255567 KB
+ 0:54:16.672 Players: 0 in total
+ 0:54:17.672 Used memory: 1255551 KB
+ 0:54:17.672 Players: 0 in total
+ 0:54:18.671 Used memory: 1255574 KB
+ 0:54:18.671 Players: 0 in total
+ 0:54:19.671 Used memory: 1255585 KB
+ 0:54:19.671 Players: 0 in total
+ 0:54:20.671 Used memory: 1255652 KB
+ 0:54:20.671 Players: 0 in total
+ 0:54:21.671 Used memory: 1255661 KB
+ 0:54:21.672 Players: 0 in total
+ 0:54:22.672 Used memory: 1255852 KB
+ 0:54:22.672 Players: 0 in total
+ 0:54:23.446 PerfWarning: Way too much components (1459) in dz\structures\industrial\construction\construction_building.p3d:geometryFire
+ 0:54:23.672 Used memory: 1257286 KB
+ 0:54:23.672 Players: 0 in total
+ 0:54:24.696 Used memory: 1257712 KB
+ 0:54:24.696 Players: 0 in total
+ 0:54:25.696 Used memory: 1257666 KB
+ 0:54:25.696 Players: 0 in total
+ 0:54:26.696 Used memory: 1257669 KB
+ 0:54:26.696 Players: 0 in total
+ 0:54:27.696 Used memory: 1257826 KB
+ 0:54:27.696 Players: 0 in total
+ 0:54:28.705 Used memory: 1258031 KB
+ 0:54:28.705 Players: 0 in total
+ 0:54:29.353 PerfWarning: Way too much components (700) in dz\structures\industrial\mines\mine_building.p3d:geometryFire
+ 0:54:29.705 Used memory: 1258572 KB
+ 0:54:29.705 Players: 0 in total
+ 0:54:30.705 Used memory: 1260329 KB
+ 0:54:30.705 Players: 0 in total
+ 0:54:31.705 Used memory: 1260339 KB
+ 0:54:31.705 Players: 0 in total
+ 0:54:32.704 Used memory: 1260349 KB
+ 0:54:32.704 Players: 0 in total
+ 0:54:33.705 Used memory: 1261397 KB
+ 0:54:33.705 Players: 0 in total
+ 0:54:34.704 Used memory: 1265043 KB
+ 0:54:34.704 Players: 0 in total
+ 0:54:35.704 Used memory: 1265635 KB
+ 0:54:35.704 Players: 0 in total
+ 0:54:36.704 Used memory: 1265635 KB
+ 0:54:36.704 Players: 0 in total
+ 0:54:37.704 Used memory: 1265635 KB
+ 0:54:37.704 Players: 0 in total
+ 0:54:38.704 Used memory: 1265635 KB
+ 0:54:38.704 Players: 0 in total
+ 0:54:39.704 Used memory: 1265635 KB
+ 0:54:39.704 Players: 0 in total
+ 0:54:40.704 Used memory: 1265636 KB
+ 0:54:40.704 Players: 0 in total
+ 0:54:41.707 Used memory: 1265636 KB
+ 0:54:41.707 Players: 0 in total
+ 0:54:42.707 Used memory: 1265423 KB
+ 0:54:42.707 Players: 0 in total
+ 0:54:43.706 Used memory: 1265396 KB
+ 0:54:43.706 Players: 0 in total
+ 0:54:44.707 Used memory: 1265275 KB
+ 0:54:44.707 Players: 0 in total
+ 0:54:45.707 Used memory: 1264738 KB
+ 0:54:45.707 Players: 0 in total
+ 0:54:46.707 Used memory: 1264883 KB
+ 0:54:46.707 Players: 0 in total
+ 0:54:47.707 Used memory: 1265505 KB
+ 0:54:47.707 Players: 0 in total
+ 0:54:48.706 Used memory: 1265690 KB
+ 0:54:48.706 Players: 0 in total
+ 0:54:49.707 Used memory: 1265690 KB
+ 0:54:49.708 Players: 0 in total
+ 0:54:50.707 Used memory: 1265690 KB
+ 0:54:50.707 Players: 0 in total
+ 0:54:51.708 Used memory: 1266299 KB
+ 0:54:51.708 Players: 0 in total
+ 0:54:52.707 Used memory: 1266312 KB
+ 0:54:52.707 Players: 0 in total
+ 0:54:53.707 Used memory: 1266527 KB
+ 0:54:53.707 Players: 0 in total
+ 0:54:54.707 Used memory: 1266912 KB
+ 0:54:54.707 Players: 0 in total
+ 0:54:55.707 Used memory: 1267214 KB
+ 0:54:55.707 Players: 0 in total
+ 0:54:56.707 Used memory: 1267226 KB
+ 0:54:56.707 Players: 0 in total
+ 0:54:57.708 Used memory: 1267596 KB
+ 0:54:57.708 Players: 0 in total

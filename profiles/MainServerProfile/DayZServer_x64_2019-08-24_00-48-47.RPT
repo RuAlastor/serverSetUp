@@ -1,0 +1,498 @@
+
+
+=====================================================================
+== G:\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=myServerDZ.cfg  -profiles=profiles/MainServerProfile -dologs -adminlog -scriptDebug=true -freezecheck "-mod=mods/@CF;mods/@CommunityOnlineTools" 
+=====================================================================
+Exe timestamp: 2019/07/27 09:15:36
+Current time:  2019/08/24 00:48:47
+
+Version 1.04.152166
+ 0:48:47.995 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 1/5
+ 0:48:48.997 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 2/5
+ 0:48:49.998 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 3/5
+ 0:48:50.998 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 4/5
+ 0:48:51.998 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 5/5
+ 0:48:53.122 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:48:53.122 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:48:53.123 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:48:53.124 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:48:53.365 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:48:53.365 Localization not present: STR_TIME_FORMAT
+ 0:48:53.366 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:48:53.366 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:48:53.366 Localization not present: STR_MP_VALIDERROR
+ 0:48:53.366 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:48:53.366 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:48:53.366 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:48:53.366 Localization not present: STR_LOAD_INIT
+ 0:48:53.366 Localization not present: STR_LOAD_WORLD
+ 0:48:53.366 Localization not present: STR_LOAD_GAME
+ 0:48:53.366 Localization not present: STR_SAVE_GAME
+ 0:48:53.366 Localization not present: STR_MP_CONNECT
+ 0:48:53.366 Localization not present: STR_MP_DISCONNECT
+ 0:48:53.366 Localization not present: STR_MP_CONNECTING
+ 0:48:53.366 Localization not present: STR_MP_TIMEOUT
+ 0:48:53.366 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:48:53.366 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:48:53.367 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:48:53.367 Localization not present: STR_TIME_FORMAT
+ 0:48:53.367 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:48:53.367 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:48:53.367 Localization not present: STR_MP_VALIDERROR
+ 0:48:53.367 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:48:53.367 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:48:53.367 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:48:53.367 Localization not present: STR_LOAD_INIT
+ 0:48:53.367 Localization not present: STR_LOAD_WORLD
+ 0:48:53.367 Localization not present: STR_LOAD_GAME
+ 0:48:53.367 Localization not present: STR_SAVE_GAME
+ 0:48:53.367 Localization not present: STR_MP_CONNECT
+ 0:48:53.367 Localization not present: STR_MP_DISCONNECT
+ 0:48:53.367 Localization not present: STR_MP_CONNECTING
+ 0:48:53.367 Localization not present: STR_MP_TIMEOUT
+ 0:48:53.367 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:48:53.367 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:48:53.410 Initializing stats manager.
+ 0:48:53.410 Stats config disabled.
+ 0:48:55.610 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+ 0:48:55.610 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+ 0:48:55.619 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+ 0:48:55.619 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+ 0:48:55.641 Updating base class HorticultureBaseProxies->ProxyAttachment, by DZ\structures\residential\config.bin/CfgNonAIVehicles/ProxyTomato_Seeds/
+ 0:48:55.967 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+ 0:48:57.339 ENGINE    (W): No module info used, trying to identify -> 0xD6D50000
+
+ 0:48:57.341 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+ 0:48:57.496 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:48:57.499 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:48:57.499 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+ 0:48:57.500 [Inputs] Loading inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:48:57.500 !!! [Inputs] Cannot read inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml", parser error
+ 0:48:57.500 [Inputs] Loading inputs cfg "bin/core.xml"
+ 0:48:57.500 !!! [Inputs] Cannot load input preset "user", file does not exist
+ 0:48:57.501 [Inputs] Exporting inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CreateLobby'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinLobby'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinTeam'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetUserUID'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetService'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+
+ 0:48:57.784 SCRIPT    (W): @"scripts/3_Game/systems\inventory\cargo.c,6": Missing script declaration for method 'CargoBase.IsProxyCargo'
+
+ 0:48:57.858 ANIMATION (E): Can't load mods/@CommunityOnlineTools/Anims/cfg/skeletons.anim.xml
+
+ 0:48:57.858 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:48:57.858 ANIMATION (E): Can't load mods/@CF/Anims/cfg/skeletons.anim.xml
+
+ 0:48:57.858 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:48:57.963 Warning Message: 'soundSetNear/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetFar/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetNear/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetFar/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetNear/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetFar/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetNear/' is not a value
+ 0:48:57.963 Warning Message: 'soundSetFar/' is not a value
+ 0:48:59.207 SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\staticfunctions.c,18": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:48:59.278 RENDER    (E): Cannot find PP effect CloudsEffect, is the name correct?
+
+ 0:48:59.289 MATERIAL  (E): Can't load 'DropRefractionTex' 'graphics/textures/postprocess/drop_refraction.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.308 MATERIAL  (E): Can't load 'DistantTex' 'graphics/textures/postprocess/raindistantmask.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.314 MATERIAL  (E): Can't load 'RotationNoiseMap' 'graphics/textures/postprocess/noise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.347 MATERIAL  (E): Can't load 'RipplesMap' 'graphics/textures/postprocess/ripple.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.524 MATERIAL  (E): Can't load 'MovableMap' 'graphics/textures/postprocess/rainripplesmovable.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.526 MATERIAL  (E): Can't load 'MovableNoiseMap' 'graphics/textures/postprocess/rainripplesmovablenoise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:48:59.529 MATERIAL  (E): Can't load 'ColorTable' 'graphics/textures/postprocess/color_test.edds', in material @"Graphics/Materials/postprocess/colorgrading.emat"
+
+ 0:48:59.564 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+ 0:48:59.564 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_CAR" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_HELICOPTER" not found
+ 0:48:59.564 String "STR_DN_HELICOPTER" not found
+ 0:48:59.564 String "STR_DN_MAN" not found
+ 0:48:59.564 String "STR_DN_ANIMAL" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_BUNKER" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_UNKNOWN" not found
+ 0:48:59.564 String "STR_DN_MAN" not found
+ 0:48:59.564 String "STR_DN_MAN" not found
+ 0:48:59.564 String "STR_DN_MAN" not found
+ 0:48:59.567 String "STR_DN_CAR" not found
+ 0:48:59.567 String "STR_DN_ANIMAL" not found
+ 0:48:59.567 String "STR_DN_ANIMAL" not found
+ 0:48:59.577 String "STR_DN_MAN" not found
+ 0:48:59.584 String "STR_DN_CAR" not found
+ 0:48:59.823 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+ 0:48:59.823 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.reloadTime'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.824 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.burst'.
+ 0:48:59.824 Warning Message: '/' is not a value
+ 0:48:59.825 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.reloadTime'.
+ 0:48:59.825 Warning Message: '/' is not a value
+ 0:48:59.825 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.burst'.
+ 0:48:59.825 Warning Message: '/' is not a value
+ 0:48:59.825 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.reloadTime'.
+ 0:48:59.825 Warning Message: '/' is not a value
+ 0:48:59.825 Warning Message: No entry 'bin\config.bin/CfgWeapons/Launcher_Base.burst'.
+ 0:48:59.825 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.burst'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.reloadTime'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.burst'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.reloadTime'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.burst'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.892 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.reloadTime'.
+ 0:48:59.892 Warning Message: '/' is not a value
+ 0:48:59.916 Warning Message: No entry 'bin\config.bin.RscPendingInvitation'.
+ 0:48:59.916 Warning Message: No entry '.x'.
+ 0:48:59.916 Warning Message: '/' is not a value
+ 0:48:59.916 Warning Message: No entry '.y'.
+ 0:48:59.916 Warning Message: '/' is not a value
+ 0:48:59.916 Warning Message: No entry '.w'.
+ 0:48:59.916 Warning Message: '/' is not a value
+ 0:48:59.916 Warning Message: No entry '.h'.
+ 0:48:59.916 Warning Message: '/' is not a value
+ 0:48:59.999 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.04.152166)
+ 0:49:00.02 Server: SetClientState dpid=2 id=0 name=__SERVER__ CREATED -> CONNECTED
+ 0:49:00.36 Server: SetClientState dpid=2 id=0 name=__SERVER__ MISSION SELECTED -> PLAYER ASSIGNED
+ 0:49:00.36 Server: SetClientState dpid=2 id=0 name=__SERVER__ PLAYER ASSIGNED -> MISSION RECEIVED
+ 0:49:00.45 Terrain normal texture loaded (dz\worlds\chernarusplus\data\global_nohq.paa)...
+ 0:49:01.415 PerfWarning: Way too much components (582) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 0:49:01.466 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 0:49:01.629 PerfWarning: Way too much components (948) in dz\structures\specific\prison\prison_wall_large.p3d:geometryFire
+ 0:49:01.763 Warning Message: Animation source slot_01 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_02 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_03 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_04 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_05 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_06 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_07 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_08 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.763 Warning Message: Animation source slot_09 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:49:01.800 PerfWarning: Way too much components (742) in dz\structures\residential\police\village_policestation.p3d:geometryFire
+ 0:49:01.879 PerfWarning: Way too much components (786) in dz\structures\residential\houses\house_1w08.p3d:geometryFire
+ 0:49:01.929 PerfWarning: Way too much components (665) in dz\structures\residential\houses\house_2w01.p3d:geometryFire

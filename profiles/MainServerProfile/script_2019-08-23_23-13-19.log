@@ -1,0 +1,256 @@
+---------------------------------------------
+Log G:\Steam\steamapps\common\DayZServer\profiles\MainServerProfile\script_2019-08-23_23-13-19.log started at 23.08. 23:13:20
+
+SCRIPT       : Registered 234 temporary action enum(s), UAN==234
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\cargo.c,6": Missing script declaration for method 'CargoBase.IsProxyCargo'
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\staticfunctions.c,18": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : string classname = 'SodaCan_Pipsi'
+SCRIPT       : int CHECKSUM = 2015310853
+SCRIPT       : string classname = 'SodaCan_Cola'
+SCRIPT       : int CHECKSUM = 1574065062
+SCRIPT       : string classname = 'SodaCan_Spite'
+SCRIPT       : int CHECKSUM = 631771443
+SCRIPT       : string classname = 'SodaCan_Kvass'
+SCRIPT       : int CHECKSUM = 1379000943
+SCRIPT       : string classname = 'BoxCerealCrunchin'
+SCRIPT       : int CHECKSUM = 1358692348
+SCRIPT       : string classname = 'PowderedMilk'
+SCRIPT       : int CHECKSUM = 163687603
+SCRIPT       : string classname = 'SmallGuts'
+SCRIPT       : int CHECKSUM = 1712154863
+SCRIPT       : string classname = 'Guts'
+SCRIPT       : int CHECKSUM = 1714686912
+SCRIPT       : string classname = 'Rice'
+SCRIPT       : int CHECKSUM = 1718987583
+SCRIPT       : string classname = 'Marmalade'
+SCRIPT       : int CHECKSUM = 469089491
+SCRIPT       : string classname = 'BakedBeansCan_Opened'
+SCRIPT       : int CHECKSUM = 1660123495
+SCRIPT       : string classname = 'PeachesCan_Opened'
+SCRIPT       : int CHECKSUM = 446147366
+SCRIPT       : string classname = 'TacticalBaconCan_Opened'
+SCRIPT       : int CHECKSUM = 1937170442
+SCRIPT       : string classname = 'SpaghettiCan_Opened'
+SCRIPT       : int CHECKSUM = 653896047
+SCRIPT       : string classname = 'SardinesCan_Opened'
+SCRIPT       : int CHECKSUM = -1609537898
+SCRIPT       : string classname = 'TunaCan_Opened'
+SCRIPT       : int CHECKSUM = 1774603546
+SCRIPT       : string classname = 'Apple'
+SCRIPT       : int CHECKSUM = 1851621832
+SCRIPT       : string classname = 'Banana'
+SCRIPT       : int CHECKSUM = 1974107129
+SCRIPT       : string classname = 'Orange'
+SCRIPT       : int CHECKSUM = 640011433
+SCRIPT       : string classname = 'Tomato'
+SCRIPT       : int CHECKSUM = 1103673793
+SCRIPT       : string classname = 'GreenBellPepper'
+SCRIPT       : int CHECKSUM = -834959131
+SCRIPT       : string classname = 'Zucchini'
+SCRIPT       : int CHECKSUM = 28595068
+SCRIPT       : string classname = 'Pumpkin'
+SCRIPT       : int CHECKSUM = -1144639944
+SCRIPT       : string classname = 'SlicedPumpkin'
+SCRIPT       : int CHECKSUM = 1881833812
+SCRIPT       : string classname = 'Potato'
+SCRIPT       : int CHECKSUM = 658567755
+SCRIPT       : string classname = 'Kiwi'
+SCRIPT       : int CHECKSUM = 662489239
+SCRIPT       : string classname = 'SambucusBerry'
+SCRIPT       : int CHECKSUM = 1508774600
+SCRIPT       : string classname = 'CaninaBerry'
+SCRIPT       : int CHECKSUM = 1085530502
+SCRIPT       : string classname = 'Cannabis'
+SCRIPT       : int CHECKSUM = -329786475
+SCRIPT       : string classname = 'Plum'
+SCRIPT       : int CHECKSUM = -333972377
+SCRIPT       : string classname = 'Pear'
+SCRIPT       : int CHECKSUM = -332921917
+SCRIPT       : string classname = 'HumanSteakMeat'
+SCRIPT       : int CHECKSUM = 1476700171
+SCRIPT       : string classname = 'GoatSteakMeat'
+SCRIPT       : int CHECKSUM = 1817338593
+SCRIPT       : string classname = 'MouflonSteakMeat'
+SCRIPT       : int CHECKSUM = 1406562346
+SCRIPT       : string classname = 'BoarSteakMeat'
+SCRIPT       : int CHECKSUM = -299765535
+SCRIPT       : string classname = 'PigSteakMeat'
+SCRIPT       : int CHECKSUM = -1413369738
+SCRIPT       : string classname = 'DeerSteakMeat'
+SCRIPT       : int CHECKSUM = -471722855
+SCRIPT       : string classname = 'WolfSteakMeat'
+SCRIPT       : int CHECKSUM = -1737102658
+SCRIPT       : string classname = 'BearSteakMeat'
+SCRIPT       : int CHECKSUM = 1594556119
+SCRIPT       : string classname = 'CowSteakMeat'
+SCRIPT       : int CHECKSUM = 1204360947
+SCRIPT       : string classname = 'SheepSteakMeat'
+SCRIPT       : int CHECKSUM = -1946035829
+SCRIPT       : string classname = 'FoxSteakMeat'
+SCRIPT       : int CHECKSUM = -797888533
+SCRIPT       : string classname = 'ChickenBreastMeat'
+SCRIPT       : int CHECKSUM = -1545063978
+SCRIPT       : string classname = 'RabbitLegMeat'
+SCRIPT       : int CHECKSUM = -1059971739
+SCRIPT       : string classname = 'CarpFilletMeat'
+SCRIPT       : int CHECKSUM = -522273280
+SCRIPT       : string classname = 'MackerelFilletMeat'
+SCRIPT       : int CHECKSUM = -1040260065
+SCRIPT       : string classname = 'Lard'
+SCRIPT       : int CHECKSUM = -1044238036
+SCRIPT       : string classname = 'Carp'
+SCRIPT       : int CHECKSUM = -1040723626
+SCRIPT       : string classname = 'Sardines'
+SCRIPT       : int CHECKSUM = -1550108133
+SCRIPT       : string classname = 'Mackerel'
+SCRIPT       : int CHECKSUM = 628272415
+SCRIPT       : string classname = 'Worm'
+SCRIPT       : int CHECKSUM = 624364934
+SCRIPT       : string classname = 'AgaricusMushroom'
+SCRIPT       : int CHECKSUM = -1459524589
+SCRIPT       : string classname = 'AmanitaMushroom'
+SCRIPT       : int CHECKSUM = -869220978
+SCRIPT       : string classname = 'MacrolepiotaMushroom'
+SCRIPT       : int CHECKSUM = 1335371708
+SCRIPT       : string classname = 'LactariusMushroom'
+SCRIPT       : int CHECKSUM = 1647726042
+SCRIPT       : string classname = 'PsilocybeMushroom'
+SCRIPT       : int CHECKSUM = 161138810
+SCRIPT       : string classname = 'AuriculariaMushroom'
+SCRIPT       : int CHECKSUM = -2078627850
+SCRIPT       : string classname = 'BoletusMushroom'
+SCRIPT       : int CHECKSUM = -1302863706
+SCRIPT       : string classname = 'PleurotusMushroom'
+SCRIPT       : int CHECKSUM = -1438162533
+SCRIPT       : string classname = 'Water'
+SCRIPT       : int CHECKSUM = -1606283368
+SCRIPT       : string classname = 'RiverWater'
+SCRIPT       : int CHECKSUM = 1252605587
+SCRIPT       : string classname = 'Disinfectant'
+SCRIPT       : int CHECKSUM = 306235439
+SCRIPT       : string classname = 'Vodka'
+SCRIPT       : int CHECKSUM = 464755274
+SCRIPT       : string classname = 'Beer'
+SCRIPT       : int CHECKSUM = 461812840
+SCRIPT       : string classname = 'Gasoline'
+SCRIPT       : int CHECKSUM = 817842066
+SCRIPT       : string classname = 'Diesel'
+SCRIPT       : int CHECKSUM = 363144716
+SCRIPT       : string classname = 'Saline'
+SCRIPT       : int CHECKSUM = 2006927204
+SCRIPT       : string classname = 'Blood_0Positive'
+SCRIPT       : int CHECKSUM = -34517822
+SCRIPT       : string classname = 'Blood_0Negative'
+SCRIPT       : int CHECKSUM = -736949012
+SCRIPT       : string classname = 'Blood_APositive'
+SCRIPT       : int CHECKSUM = -1880801157
+SCRIPT       : string classname = 'Blood_ANegative'
+SCRIPT       : int CHECKSUM = 1955578212
+SCRIPT       : string classname = 'Blood_BPositive'
+SCRIPT       : int CHECKSUM = 1484955164
+SCRIPT       : string classname = 'Blood_BNegative'
+SCRIPT       : int CHECKSUM = -1828517348
+SCRIPT       : string classname = 'Blood_ABPositive'
+SCRIPT       : int CHECKSUM = -386919547
+SCRIPT       : string classname = 'Blood_ABNegative'
+SCRIPT       : int CHECKSUM = -208183900
+SCRIPT    (W): @"scripts/5_Mission/gui\inventorynew\inherited\zombiecontainer.c,651": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,212": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,217": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\gui\mapeditor\mapeditormenu.c,111": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\teleport\teleportmodule.c,188": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\objectmodule.c,196": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : CommunityOnlineTools::CommunityOnlineTools
+SCRIPT       : VersionPath: 
+SCRIPT       : Community Online Tools is running on version 
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b586d5f0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b5867740>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b5871510>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b5871b60>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b5870ec0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b58786b0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b587ac90>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b58734a0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<b5873af0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : childCount:33
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad START ----, version: 107
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:-208183900
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : bool m_HasPlayerData = 1
+SCRIPT       : array<string> Roles = 0x000000003ce655e0 {'admin'}
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:-208183900
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:-208183900
+SCRIPT       : [Logout]: New player xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA= with logout time 15
+SCRIPT       : [Logout]: Player xLyEzeI96hlKrkokB7xmnwXKtlvHb1qZ-yG0F9TTtfA= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:-208183900
+SCRIPT       : COMPUTING NEW FOG
+SCRIPT       : Actual ( 13.6064 ) fog: 0.0109944
+SCRIPT       : -----------------------------------------------------------
+SCRIPT       : EntityAI m_EnergySource = Battery9V<e22ca610>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<d5488af0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<d5482c40>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<da8f7250>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<dd072310>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<db000e30>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0
+SCRIPT       : EntityAI m_EnergySource = Battery9V<db002dc0>
+SCRIPT       : int m_EnergySourceNetworkIDLow = 0
+SCRIPT       : int m_EnergySourceNetworkIDHigh = 0

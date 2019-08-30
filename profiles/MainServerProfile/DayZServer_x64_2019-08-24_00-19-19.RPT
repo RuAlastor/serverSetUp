@@ -1,0 +1,655 @@
+
+
+=====================================================================
+== G:\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=myServerDZ.cfg -port=2302 -profiles=profiles/MainServerProfile -dologs -adminlog -scriptDebug=true -freezecheck "-mod=mods/@CF;mods/@CommunityOnlineTools" 
+=====================================================================
+Exe timestamp: 2019/07/27 09:15:36
+Current time:  2019/08/24 00:19:19
+
+Version 1.04.152166
+ 0:19:19.301 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 1/5
+ 0:19:20.302 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 2/5
+ 0:19:21.302 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 3/5
+ 0:19:22.303 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 4/5
+ 0:19:23.303 Load: opening profiles/MainServerProfile\DataCache\cache.ch failed with error 12. Trying again. Attempt 5/5
+ 0:19:24.421 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:19:24.421 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SUNDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MONDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_TUESDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_WEDNESDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_THURSDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_FRIDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SATURDAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_JANUARY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_FEBRUARY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MARCH - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_APRIL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_JUNE - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_JULY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_AUGUST - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SEPTEMBER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_OCTOBER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_NOVEMBER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DECEMBER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DATE_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DATE_FORMAT_SHORT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_TIME_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MAP_INTERVAL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MAP_LEGEND_INFO - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MAP_SCALE_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_RESOLUTION_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SESSION_NAME_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CONFIG_YNORMAL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CONFIG_YREVERSED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CONFIG_CONTROLLER_NORMAL_LOOK - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CONFIG_CONTROLLER_REVERSED_LOOK - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_ENABLED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISABLED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SESSION_NAME_INIT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_TIME_ACC_FORMAT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_VALIDERROR - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_VALIDERROR_1 - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_VALIDERROR_2 - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_LOGGED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_LOGGED_OUT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_CONNECTION_LOOSING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_MP_PASSWORD - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_MP_NO_PASSWORD - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_MP_VERSION - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_MP_CONNECT_ERROR - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_ADDON_MISSING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_ADDON_VERSION - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_LAUNCH_GAME - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_NO_WORLD - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MSG_MP_SESSION_FULL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_LOAD_INIT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_LOAD_WORLD - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_LOAD_MISSION - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_LOAD_INTRO - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_LOAD_GAME - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SAVE_GAME - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_NETWORK_SEND - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_NETWORK_RECEIVE - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CREATE_SERVER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_CREATE_CLIENT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SHUTDOWN - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_TREE - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_BUSH - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_BUILDING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_HOUSE - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_CHURCH - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_CHAPEL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_CROSS - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_ROCK - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_FOREST - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DN_BUS_STOP - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_FADE_AWAY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_CONNECT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_DISCONNECT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_CONNECTING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_KICKED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_BANNED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_TIMEOUT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_server_shutdown - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISP_CLIENT_TEXT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISP_CLIENT_TEXT_EDIT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_SERVER_MONITOR - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_SERVER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_MASTER - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_SESSION_LOST - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISP_OPT_UNITS_METRIC - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISP_OPT_UNITS_MIXED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DISP_OPT_UNITS_IMPERIAL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_KICKED_CLIENT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_LOGIN_QUEUE_FULL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_BANNED_CLIENT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_TIMEOUT_CLIENT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_BAD_CDKEY - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_SESSION_LOCKED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_STEAM_AUTH_FAILED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_xbox_authentification_fail - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_ps4_authentification_fail - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_authentification_fail - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_MP_MAX_PING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_HOST_SESSION - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_SERVER_CREATED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_SERVER_CREATE_FAIL - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_SERVER_FINISHED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_SERVER_IDENTITY_CREATED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_PLAYER_CONNECTING - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_PLAYER_CONNECTED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_PLAYER_DISCONNECTED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_ADMIN_LOGGED_IN - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_ADMIN_LOGGED_OUT - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_NO_USERS - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_ROLES_ASSIGNED - "Global" stringtable not found
+ 0:19:24.423 Localization won't work: STR_DS_READING_MISSION - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_DS_MISSION_READ - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_DS_WAITING_FOR_NEXT_GAME - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_HASH_WRONG - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_SIGNATURE_MISSING - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_SIGNATURE_WRONG - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_SIGNATURE_CHECK_TIMED_OUT - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_BATTLEYE_INIT_FAILED - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_MSG_ADDON_NOT_FOUND - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_MSG_ADDON_CANNOT_OPEN - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_MSG_ADDON_UNKNOWN_PRODUCT - "Global" stringtable not found
+ 0:19:24.424 Localization won't work: STR_INCOMPATIBLE_LOAD_GAME_ATTEMPT - "Global" stringtable not found
+ 0:19:24.655 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:19:24.655 Localization not present: STR_TIME_FORMAT
+ 0:19:24.655 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:19:24.655 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:19:24.655 Localization not present: STR_MP_VALIDERROR
+ 0:19:24.655 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:19:24.655 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:19:24.655 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:19:24.655 Localization not present: STR_LOAD_INIT
+ 0:19:24.655 Localization not present: STR_LOAD_WORLD
+ 0:19:24.655 Localization not present: STR_LOAD_GAME
+ 0:19:24.655 Localization not present: STR_SAVE_GAME
+ 0:19:24.655 Localization not present: STR_MP_CONNECT
+ 0:19:24.655 Localization not present: STR_MP_DISCONNECT
+ 0:19:24.655 Localization not present: STR_MP_CONNECTING
+ 0:19:24.655 Localization not present: STR_MP_TIMEOUT
+ 0:19:24.655 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:19:24.655 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:19:24.656 Localization not present: STR_DATE_FORMAT_SHORT
+ 0:19:24.656 Localization not present: STR_TIME_FORMAT
+ 0:19:24.656 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 0:19:24.656 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 0:19:24.656 Localization not present: STR_MP_VALIDERROR
+ 0:19:24.656 Localization not present: STR_MP_CONNECTION_LOOSING
+ 0:19:24.656 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 0:19:24.656 Localization not present: STR_MSG_LAUNCH_GAME
+ 0:19:24.656 Localization not present: STR_LOAD_INIT
+ 0:19:24.656 Localization not present: STR_LOAD_WORLD
+ 0:19:24.656 Localization not present: STR_LOAD_GAME
+ 0:19:24.656 Localization not present: STR_SAVE_GAME
+ 0:19:24.656 Localization not present: STR_MP_CONNECT
+ 0:19:24.656 Localization not present: STR_MP_DISCONNECT
+ 0:19:24.656 Localization not present: STR_MP_CONNECTING
+ 0:19:24.656 Localization not present: STR_MP_TIMEOUT
+ 0:19:24.656 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 0:19:24.656 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 0:19:24.701 Initializing stats manager.
+ 0:19:24.701 Stats config disabled.
+ 0:19:26.919 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+ 0:19:26.919 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+ 0:19:26.926 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+ 0:19:26.926 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+ 0:19:26.942 Updating base class HorticultureBaseProxies->ProxyAttachment, by DZ\structures\residential\config.bin/CfgNonAIVehicles/ProxyTomato_Seeds/
+ 0:19:27.238 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+ 0:19:28.397 ENGINE    (W): No module info used, trying to identify -> 0xD6D50000
+
+ 0:19:28.397 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+ 0:19:28.567 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:19:28.569 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:19:28.569 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+ 0:19:28.570 [Inputs] Loading inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:19:28.570 !!! [Inputs] Cannot read inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml", parser error
+ 0:19:28.570 [Inputs] Loading inputs cfg "bin/core.xml"
+ 0:19:28.570 !!! [Inputs] Cannot load input preset "user", file does not exist
+ 0:19:28.571 [Inputs] Exporting inputs cfg "profiles/MainServerProfile\Users\Survivor\Server.core.xml"
+ 0:19:28.824 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CreateLobby'
+
+ 0:19:28.824 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+
+ 0:19:28.824 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+
+ 0:19:28.824 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinLobby'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.JoinTeam'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetUserUID'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GetService'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,96": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+
+ 0:19:28.825 SCRIPT    (W): @"scripts/3_Game/systems\inventory\cargo.c,6": Missing script declaration for method 'CargoBase.IsProxyCargo'
+
+ 0:19:28.891 ANIMATION (E): Can't load mods/@CommunityOnlineTools/Anims/cfg/skeletons.anim.xml
+
+ 0:19:28.891 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:19:28.891 ANIMATION (E): Can't load mods/@CF/Anims/cfg/skeletons.anim.xml
+
+ 0:19:28.891 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 0:19:29.04 Warning Message: 'soundSetNear/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetFar/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetNear/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetFar/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetNear/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetFar/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetNear/' is not a value
+ 0:19:29.04 Warning Message: 'soundSetFar/' is not a value
+ 0:19:30.108 SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\staticfunctions.c,18": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:19:30.155 RENDER    (E): Cannot find PP effect CloudsEffect, is the name correct?
+
+ 0:19:30.164 MATERIAL  (E): Can't load 'DropRefractionTex' 'graphics/textures/postprocess/drop_refraction.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.182 MATERIAL  (E): Can't load 'DistantTex' 'graphics/textures/postprocess/raindistantmask.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.186 MATERIAL  (E): Can't load 'RotationNoiseMap' 'graphics/textures/postprocess/noise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.189 MATERIAL  (E): Can't load 'RipplesMap' 'graphics/textures/postprocess/ripple.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.224 MATERIAL  (E): Can't load 'MovableMap' 'graphics/textures/postprocess/rainripplesmovable.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.226 MATERIAL  (E): Can't load 'MovableNoiseMap' 'graphics/textures/postprocess/rainripplesmovablenoise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 0:19:30.229 MATERIAL  (E): Can't load 'ColorTable' 'graphics/textures/postprocess/color_test.edds', in material @"Graphics/Materials/postprocess/colorgrading.emat"
+
+ 0:19:30.262 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+ 0:19:30.262 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+ 0:19:30.262 String "STR_DN_UNKNOWN" not found
+ 0:19:30.262 String "STR_DN_UNKNOWN" not found
+ 0:19:30.262 String "STR_DN_CAR" not found
+ 0:19:30.262 String "STR_DN_UNKNOWN" not found
+ 0:19:30.262 String "STR_DN_HELICOPTER" not found
+ 0:19:30.263 String "STR_DN_HELICOPTER" not found
+ 0:19:30.263 String "STR_DN_MAN" not found
+ 0:19:30.263 String "STR_DN_ANIMAL" not found
+ 0:19:30.263 String "STR_DN_UNKNOWN" not found
+ 0:19:30.263 String "STR_DN_BUNKER" not found
+ 0:19:30.263 String "STR_DN_UNKNOWN" not found
+ 0:19:30.263 String "STR_DN_UNKNOWN" not found
+ 0:19:30.263 String "STR_DN_UNKNOWN" not found
+ 0:19:30.263 String "STR_DN_UNKNOWN" not found
+ 0:19:30.263 String "STR_DN_MAN" not found
+ 0:19:30.263 String "STR_DN_MAN" not found
+ 0:19:30.263 String "STR_DN_MAN" not found
+ 0:19:30.265 String "STR_DN_CAR" not found
+ 0:19:30.266 String "STR_DN_ANIMAL" not found
+ 0:19:30.266 String "STR_DN_ANIMAL" not found
+ 0:19:30.274 String "STR_DN_MAN" not found
+ 0:19:30.278 String "STR_DN_CAR" not found
+ 0:19:30.492 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+ 0:19:30.492 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/Weapon_Base.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/DefaultWeapon.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/PistolCore.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/RifleCore.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/LauncherCore.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/Rifle_Base.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.burst'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.492 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_Base.reloadTime'.
+ 0:19:30.492 Warning Message: '/' is not a value
+ 0:19:30.493 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.burst'.
+ 0:19:30.493 Warning Message: '/' is not a value
+ 0:19:30.493 Warning Message: No entry 'bin\config.bin/CfgWeapons/BoltActionRifle_InnerMagazine_Base.reloadTime'.
+ 0:19:30.493 Warning Message: '/' is not a value
+ 0:19:30.493 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.burst'.
+ 0:19:30.493 Warning Message: '/' is not a value
+ 0:19:30.493 Warning Message: No entry 'bin\config.bin/CfgWeapons/Pistol_Base.reloadTime'.
+ 0:19:30.493 Warning Message: '/' is not a value
+ 0:19:30.493 Warning Message: No entry 'bin\config.bin/CfgWeapons/Launcher_Base.burst'.
+ 0:19:30.493 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.burst'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalCore.reloadTime'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.burst'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalPistol.reloadTime'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.burst'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.554 Warning Message: No entry 'bin\config.bin/CfgWeapons/NonlethalRifle.reloadTime'.
+ 0:19:30.554 Warning Message: '/' is not a value
+ 0:19:30.579 Warning Message: No entry 'bin\config.bin.RscPendingInvitation'.
+ 0:19:30.579 Warning Message: No entry '.x'.
+ 0:19:30.579 Warning Message: '/' is not a value
+ 0:19:30.579 Warning Message: No entry '.y'.
+ 0:19:30.579 Warning Message: '/' is not a value
+ 0:19:30.579 Warning Message: No entry '.w'.
+ 0:19:30.579 Warning Message: '/' is not a value
+ 0:19:30.579 Warning Message: No entry '.h'.
+ 0:19:30.579 Warning Message: '/' is not a value
+ 0:19:30.647 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.04.152166)
+ 0:19:30.648 Server: SetClientState dpid=2 id=0 name=__SERVER__ CREATED -> CONNECTED
+ 0:19:30.677 Server: SetClientState dpid=2 id=0 name=__SERVER__ MISSION SELECTED -> PLAYER ASSIGNED
+ 0:19:30.677 Server: SetClientState dpid=2 id=0 name=__SERVER__ PLAYER ASSIGNED -> MISSION RECEIVED
+ 0:19:30.683 Terrain normal texture loaded (dz\worlds\chernarusplus\data\global_nohq.paa)...
+ 0:19:31.731 PerfWarning: Way too much components (582) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 0:19:31.781 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 0:19:31.927 PerfWarning: Way too much components (948) in dz\structures\specific\prison\prison_wall_large.p3d:geometryFire
+ 0:19:32.33 Warning Message: Animation source slot_01 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_02 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_03 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_04 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_05 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_06 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_07 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_08 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.33 Warning Message: Animation source slot_09 not found in bin\config.bin/CfgVehicles/Land_Misc_Greenhouse/
+ 0:19:32.70 PerfWarning: Way too much components (742) in dz\structures\residential\police\village_policestation.p3d:geometryFire
+ 0:19:32.122 PerfWarning: Way too much components (786) in dz\structures\residential\houses\house_1w08.p3d:geometryFire
+ 0:19:32.209 PerfWarning: Way too much components (665) in dz\structures\residential\houses\house_2w01.p3d:geometryFire
+ 0:19:32.242 PerfWarning: Way too much components (1028) in dz\structures\residential\houses\house_2w03.p3d:geometryFire
+ 0:19:32.331 PerfWarning: Way too much components (792) in dz\structures\residential\houses\house_1w11.p3d:geometryFire
+ 0:19:32.355 PerfWarning: Way too much components (865) in dz\structures\residential\houses\house_1b01_pub.p3d:geometryFire
+ 0:19:32.378 PerfWarning: Way too much components (534) in dz\structures\specific\churches\church2_2.p3d:geometryFire
+ 0:19:32.395 Warning Message: unable to load doorCarSmallOpenABit_1 from CfgSounds
+ 0:19:32.395 Warning Message: unable to load doorCarSmallOpenABit_2 from CfgSounds
+ 0:19:32.395 Warning Message: unable to load doorCarSmallOpenABit_3 from CfgSounds
+ 0:19:32.395 Warning Message: unable to load doorCarSmallOpenABit_4 from CfgSounds
+ 0:19:32.395 Warning Message: unable to load doorCarSmallRattle from CfgActionSounds
+ 0:19:32.437 PerfWarning: Way too much components (641) in dz\structures\residential\tenements\tenement_small.p3d:geometryFire
+ 0:19:32.501 PerfWarning: Way too much components (642) in dz\structures\residential\tenements\tenement_big.p3d:geometryFire
+ 0:19:32.596 PerfWarning: Way too much components (821) in dz\structures\wrecks\vehicles\wreck_hmmwv.p3d:geometryFire
+ 0:19:32.600 PerfWarning: Way too much components (704) in dz\structures\wrecks\vehicles\wreck_ural.p3d:geometryFire
+ 0:19:32.646 PerfWarning: Way too much components (779) in dz\structures\residential\schools\city_school.p3d:geometryFire
+ 0:19:32.674 PerfWarning: Way too much components (1187) in dz\structures\residential\schools\proxy\school_exterior_proxy.p3d:geometryFire
+ 0:19:32.848 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f8.p3d:geometryFire
+ 0:19:32.857 PerfWarning: Way too much components (501) in dz\structures\wrecks\vehicles\wreck_volha_grey.p3d:geometryFire
+ 0:19:32.877 PerfWarning: Way too much components (820) in dz\structures\residential\houses\house_2w02.p3d:geometryFire
+ 0:19:32.899 PerfWarning: Way too much components (600) in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryFire
+ 0:19:32.903 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f2.p3d:geometryFire
+ 0:19:32.935 PerfWarning: Way too much components (1025) in dz\structures\residential\houses\house_2w04.p3d:geometryFire
+ 0:19:32.987 PerfWarning: Way too much components (510) in dz\structures\residential\houseblocks\houseblock_3f1.p3d:geometryFire
+ 0:19:33.54 PerfWarning: Way too much components (682) in dz\structures\residential\houseblocks\houseblock_2f3.p3d:geometryFire
+ 0:19:33.71 PerfWarning: Way too much components (552) in dz\structures\residential\houseblocks\houseblock_2f6.p3d:geometryFire
+ 0:19:33.212 PerfWarning: Way too much components (532) in dz\structures\residential\houses\house_2b02.p3d:geometryFire
+ 0:19:33.225 PerfWarning: Way too much components (913) in dz\structures\residential\houses\house_2b04.p3d:geometryFire
+ 0:19:33.252 PerfWarning: Way too much components (804) in dz\structures\residential\offices\office_municipal1.p3d:geometryFire
+ 0:19:33.297 PerfWarning: Way too much components (710) in dz\structures\residential\houses\house_2b03.p3d:geometryFire
+ 0:19:33.309 PerfWarning: Way too much components (804) in dz\structures\residential\police\city_policestation.p3d:geometryFire
+ 0:19:33.396 PerfWarning: Way too much components (677) in dz\structures\residential\medical\city_hospital.p3d:geometryFire
+ 0:19:33.424 PerfWarning: Way too much components (566) in dz\structures\residential\stores\city_store_withstairs.p3d:geometryFire
+ 0:19:33.468 PerfWarning: Way too much components (1200) in dz\structures\residential\offices\office2.p3d:geometryFire
+ 0:19:33.492 PerfWarning: Way too much components (506) in dz\structures\residential\offices\proxy\a_office02_metalbars.p3d:geometryFire
+ 0:19:33.715 PerfWarning: Way too much components (850) in dz\structures\residential\houses\house_1w12.p3d:geometryFire
+ 0:19:33.742 PerfWarning: Way too much components (558) in dz\structures\industrial\misc\misc_scaffolding.p3d:geometryFire
+ 0:19:33.919 PerfWarning: Way too much components (1027) in dz\structures\residential\offices\office1.p3d:geometryFire
+ 0:19:33.953 SW keep height animation used for dz\structures\residential\misc\misc_football_line.p3d
+ 0:19:33.991 PerfWarning: Way too much components (982) in dz\structures\industrial\houses\factory_small.p3d:geometryFire
+ 0:19:34.22 PerfWarning: Way too much components (628) in dz\structures\ruins\rubble_dirtpile_medium2.p3d:geometryFire
+ 0:19:34.56 Warning Message: No entry 'bin\config.bin/CfgVehicles/Land_Train_Wagon_Box/Doors/Door1.soundOpenABit'.
+ 0:19:34.56 Warning Message: '/' is not a value
+ 0:19:34.56 Warning Message: unable to load doorWoodRattle from CfgActionSounds
+ 0:19:34.56 Warning Message: No entry 'bin\config.bin/CfgVehicles/Land_Train_Wagon_Box/Doors/Door2.soundOpenABit'.
+ 0:19:34.56 Warning Message: '/' is not a value
+ 0:19:34.136 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometry
+ 0:19:34.138 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometryFire
+ 0:19:34.154 PerfWarning: Way too much components (626) in dz\structures\military\improvised\proxy\tent_big2.p3d:geometryFire
+ 0:19:34.292 PerfWarning: Way too much components (546) in dz\structures\military\houses\mil_guardhouse2.p3d:geometryFire
+ 0:19:34.314 PerfWarning: Way too much components (709) in dz\structures\residential\firedep\city_firestation.p3d:geometryFire
+ 0:19:34.365 PerfWarning: Way too much components (603) in dz\structures\rail\houses\rail_warehouse_small.p3d:geometryFire
+ 0:19:34.389 PerfWarning: Way too much components (859) in dz\structures\residential\medical\village_healthcare.p3d:geometryFire
+ 0:19:35.116 PerfWarning: Way too much components (715) in dz\structures\industrial\houses\factory_lathes.p3d:geometryFire
+ 0:19:35.126 PerfWarning: Way too much components (633) in dz\structures\industrial\houses\proxy\housev2_03_int.p3d:geometryFire
+ 0:19:35.170 PerfWarning: Way too much components (660) in dz\structures\military\airfield\mil_airfield_hq.p3d:geometryFire
+ 0:19:35.255 PerfWarning: Way too much components (502) in dz\structures\industrial\construction\construction_house2.p3d:geometryFire
+ 0:19:35.373 PerfWarning: Way too much components (660) in dz\structures\ruins\rubble_dirtpile_small.p3d:geometryFire
+ 0:19:35.624 PerfWarning: Way too much components (561) in dz\structures\industrial\farms\barn_wood1.p3d:geometryFire
+ 0:19:35.869 PerfWarning: Way too much components (912) in dz\structures\military\tisy\tisy_hq.p3d:geometryFire
+ 0:19:36.379 Warning Message: unable to load doorMetalLargeOpen from CfgActionSounds
+ 0:19:36.379 Warning Message: unable to load doorMetalLargeOpenABit from CfgActionSounds
+ 0:19:36.379 Warning Message: unable to load doorMetalLargeClose from CfgActionSounds
+ 0:19:36.379 Warning Message: unable to load doorMetalLargeRattle from CfgActionSounds
+ 0:19:36.489 PerfWarning: Way too much components (1212) in dz\structures\residential\offices\office_municipal2.p3d:geometryFire
+ 0:19:36.497 PerfWarning: Way too much components (1024) in dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d:geometryFire
+ 0:19:36.500 PerfWarning: Way too much components (707) in dz\structures\residential\offices\proxy\municipaloffice2_int.p3d:geometryFire
+ 0:19:36.519 Warning Message: unable to load doorMetalFrontOpen from CfgActionSounds
+ 0:19:36.519 Warning Message: unable to load doorMetalFrontOpenABit from CfgActionSounds
+ 0:19:36.519 Warning Message: unable to load doorMetalFrontClose from CfgActionSounds
+ 0:19:36.519 Warning Message: unable to load doorMetalFrontRattle from CfgActionSounds
+ 0:19:36.622 PerfWarning: Way too much components (505) in dz\structures\military\improvised\hbarrier_6m.p3d:geometryView
+ 0:19:45.43 SCRIPT    (W): @"scripts/5_Mission/gui\inventorynew\inherited\zombiecontainer.c,651": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+
+ 0:19:45.65 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,212": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:19:45.65 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\itemsetspawner\itemsetspawnermodule.c,217": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:19:45.74 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\gui\mapeditor\mapeditormenu.c,111": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+
+ 0:19:45.112 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\teleport\teleportmodule.c,188": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:19:45.127 SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\objectmodule.c,196": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+
+ 0:19:45.323 [CE][Hive] :: Initializing OFFLINE
+ 0:19:45.324 [CE][Hive] :: Loading core data ... 
+ 0:19:45.324 [CE][CoreData] :: 7 root classes, 5 defaults, 0 updaters...
+ 0:19:45.441 [CE][Hive] :: Loading map data ... 
+ 0:19:45.519 [CE][LoadPrototype] :: loaded 227 prototypes
+ 0:19:45.519   488 containers, 7158 points
+ 0:19:45.519   0 dispatches, 0 proxies
+ 0:19:45.519 !!! [CE][LoadPrototype] 5 groups have no points...
+ 0:19:45.519 [CE][LoadPrototype] :: last group name: Land_Wreck_Volha_Police...
+ 0:19:45.532 [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:19:45.532   0 containers, 0 points
+ 0:19:45.532   0 dispatches, 0 proxies
+ 0:19:45.532 [CE][LoadPrototype] :: last group name: Rail9...
+ 0:19:45.818 [CE][LoadMap] "Group" :: loaded 11402 groups, largest group range: 34.2
+ 0:19:45.822 !!! File "DZ\worlds\chernarusplus\ce\mapgroupdirt.xml" does not exist...
+ 0:19:45.822 !!! [CE][LoadMap] "Dirt" :: Failed to read group instances (DZ\worlds\chernarusplus\ce\mapgroupdirt.xml)
+ 0:19:46.267 [CE][Links] found 1850 total links between groups, of 11402
+ 0:19:46.267 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:19:46.562 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 0:19:46.864 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 0:19:47.174 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 0:19:47.473 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 0:19:47.576 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17188 instances
+ 0:19:47.853 PerfWarning: Way too much components (1020) in dz\structures\industrial\cementworks\cementworks_expeditiona.p3d:geometryFire
+ 0:19:47.877 PerfWarning: Way too much components (954) in dz\structures\industrial\cementworks\cementworks_millb.p3d:geometryFire
+ 0:19:47.912 PerfWarning: Way too much components (1459) in dz\structures\industrial\construction\construction_building.p3d:geometryFire
+ 0:19:47.920 PerfWarning: Way too much components (601) in dz\structures\industrial\construction\construction_crane.p3d:geometryFire
+ 0:19:47.926 PerfWarning: Way too much components (502) in dz\structures\industrial\construction\construction_house2.p3d:geometryFire
+ 0:19:47.937 PerfWarning: Way too much components (561) in dz\structures\industrial\farms\barn_wood1.p3d:geometryFire
+ 0:19:47.948 PerfWarning: Way too much components (1041) in dz\structures\industrial\farms\barn_metal_big.p3d:geometryFire
+ 0:19:47.966 PerfWarning: Way too much components (1041) in dz\structures\industrial\farms\barn_metal_big_grey.p3d:geometryFire
+ 0:19:47.996 PerfWarning: Way too much components (658) in dz\structures\industrial\harbour\boathouse.p3d:geometryFire
+ 0:19:48.12 PerfWarning: Way too much components (715) in dz\structures\industrial\houses\factory_lathes.p3d:geometryFire
+ 0:19:48.20 PerfWarning: Way too much components (982) in dz\structures\industrial\houses\factory_small.p3d:geometryFire
+ 0:19:48.41 PerfWarning: Way too much components (700) in dz\structures\industrial\mines\mine_building.p3d:geometryFire
+ 0:19:48.45 PerfWarning: Way too much components (558) in dz\structures\industrial\misc\misc_scaffolding.p3d:geometryFire
+ 0:19:48.61 PerfWarning: Way too much components (582) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 0:19:48.80 PerfWarning: Way too much components (528) in dz\structures\industrial\sawmills\sawmill_building.p3d:geometryFire
+ 0:19:48.120 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometry
+ 0:19:48.123 PerfWarning: Way too much components (704) in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometryFire
+ 0:19:48.130 PerfWarning: Way too much components (660) in dz\structures\military\airfield\mil_airfield_hq.p3d:geometryFire
+ 0:19:48.142 PerfWarning: Way too much components (732) in dz\structures\military\airfield\mil_atc_small.p3d:geometryFire
+ 0:19:48.163 PerfWarning: Way too much components (631) in dz\structures\military\airfield\mil_atc_big.p3d:geometryFire
+ 0:19:48.164 PerfWarning: Way too much components (634) in dz\structures\military\airfield\mil_atc_big.p3d:geometryView
+ 0:19:48.183 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 0:19:48.197 PerfWarning: Way too much components (546) in dz\structures\military\houses\mil_guardhouse2.p3d:geometryFire
+ 0:19:48.217 PerfWarning: Way too much components (592) in dz\structures\military\houses\mil_guardtower.p3d:geometryFire
+ 0:19:48.245 PerfWarning: Way too much components (652) in dz\structures\military\improvised\mil_tent_big4.p3d:geometryFire
+ 0:19:48.269 PerfWarning: Way too much components (912) in dz\structures\military\tisy\tisy_hq.p3d:geometryFire
+ 0:19:48.292 PerfWarning: Way too much components (866) in dz\structures\military\tisy\tisy_radarb_base.p3d:geometryView
+ 0:19:48.306 PerfWarning: Way too much components (601) in dz\structures\military\tisy\tisy_radarb_antenna.p3d:geometryFire
+ 0:19:48.321 PerfWarning: Way too much components (634) in dz\structures\military\airfield\airfield_hangar_green.p3d:geometryFire
+ 0:19:48.331 PerfWarning: Way too much components (627) in dz\structures\military\airfield\airfield_servicehangar_r.p3d:geometryFire
+ 0:19:48.348 PerfWarning: Way too much components (566) in dz\structures\military\airfield\airfield_servicehangar_l.p3d:geometryFire
+ 0:19:48.368 PerfWarning: Way too much components (1705) in dz\structures\military\airfield\mil_aircraftshelter.p3d:geometryFire
+ 0:19:48.388 PerfWarning: Way too much components (1117) in dz\structures\military\airfield\airfield_radar_tall.p3d:geometryFire
+ 0:19:48.406 PerfWarning: Way too much components (1046) in dz\structures\military\airfield\mil_reinforcedtank2.p3d:geometryFire
+ 0:19:48.426 PerfWarning: Way too much components (603) in dz\structures\rail\houses\rail_warehouse_small.p3d:geometryFire
+ 0:19:48.443 PerfWarning: Way too much components (709) in dz\structures\residential\firedep\city_firestation.p3d:geometryFire
+ 0:19:48.470 PerfWarning: Way too much components (600) in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryFire
+ 0:19:48.475 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f2.p3d:geometryFire
+ 0:19:48.482 PerfWarning: Way too much components (682) in dz\structures\residential\houseblocks\houseblock_2f3.p3d:geometryFire
+ 0:19:48.494 PerfWarning: Way too much components (552) in dz\structures\residential\houseblocks\houseblock_2f6.p3d:geometryFire
+ 0:19:48.500 PerfWarning: Way too much components (526) in dz\structures\residential\houseblocks\houseblock_2f8.p3d:geometryFire
+ 0:19:48.518 PerfWarning: Way too much components (510) in dz\structures\residential\houseblocks\houseblock_3f1.p3d:geometryFire
+ 0:19:48.540 PerfWarning: Way too much components (865) in dz\structures\residential\houses\house_1b01_pub.p3d:geometryFire
+ 0:19:48.567 PerfWarning: Way too much components (786) in dz\structures\residential\houses\house_1w08.p3d:geometryFire
+ 0:19:48.579 PerfWarning: Way too much components (792) in dz\structures\residential\houses\house_1w11.p3d:geometryFire
+ 0:19:48.586 PerfWarning: Way too much components (850) in dz\structures\residential\houses\house_1w12.p3d:geometryFire
+ 0:19:48.593 PerfWarning: Way too much components (532) in dz\structures\residential\houses\house_2b02.p3d:geometryFire
+ 0:19:48.600 PerfWarning: Way too much components (710) in dz\structures\residential\houses\house_2b03.p3d:geometryFire
+ 0:19:48.606 PerfWarning: Way too much components (913) in dz\structures\residential\houses\house_2b04.p3d:geometryFire
+ 0:19:48.611 PerfWarning: Way too much components (665) in dz\structures\residential\houses\house_2w01.p3d:geometryFire
+ 0:19:48.617 PerfWarning: Way too much components (820) in dz\structures\residential\houses\house_2w02.p3d:geometryFire
+ 0:19:48.625 PerfWarning: Way too much components (1028) in dz\structures\residential\houses\house_2w03.p3d:geometryFire

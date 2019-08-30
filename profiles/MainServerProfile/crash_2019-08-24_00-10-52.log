@@ -1,0 +1,13 @@
+---------------------------------------------
+Log G:\Steam\steamapps\common\DayZServer\profiles\MainServerProfile\crash_2019-08-24_00-10-52.log started at 24.08. 00:11:11
+
+
+
+------------------------------------
+HOME-PC, 24.08 2019 00:11:11
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions//myDayzOffline.chernarusplus//scripts//defaultSetup.c(2): Unexpected scope
+
+Runtime mode
+CLI params: config myServerDZ.cfg port 2302 profiles profiles/MainServerProfile dologs  adminlog  scriptDebug true freezecheck  mod mods/@CF;mods/@CommunityOnlineTools 

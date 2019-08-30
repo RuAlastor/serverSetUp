@@ -1,0 +1,23 @@
+---------------------------------------------
+Log G:\Steam\steamapps\common\DayZServer\profiles\MainServerProfile\crash_2019-08-24_00-17-45.log started at 24.08. 00:18:03
+
+
+
+------------------------------------
+HOME-PC, 24.08 2019 00:18:03
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions\myDayzOffline.chernarusplus\init.c(5): Undefined function 'setupWeather'
+
+Runtime mode
+CLI params: config myServerDZ.cfg port 2302 profiles profiles/MainServerProfile dologs  adminlog  scriptDebug true freezecheck  mod mods/@CF;mods/@CommunityOnlineTools 
+
+
+------------------------------------
+HOME-PC, 24.08 2019 00:18:27
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions\myDayzOffline.chernarusplus\init.c(5): Undefined function 'setupWeather'
+
+Runtime mode
+CLI params: config myServerDZ.cfg port 2302 profiles profiles/MainServerProfile dologs  adminlog  scriptDebug true freezecheck  mod mods/@CF;mods/@CommunityOnlineTools 
